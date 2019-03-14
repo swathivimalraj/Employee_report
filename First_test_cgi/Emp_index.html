@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+	<meta charset="utf-8" />
+    <head>
+	<TITLE>Employee Record</TITLE>
+    <style>
+    fieldset{
+  border: 1px solid;
+  width: 400px;
+  margin:auto;
+  text-align: center;
+}
+
+    </style>
+	</head>
+<Body>
+
+	<form method="post" action="emp_fetch.cgi" name="emp_fetch">
+        <fieldset name="salary" >
+            <legend><b>Salary:</b></legend>
+                Employee No:	<input type="text" name="emp_no" placeholder="eg:1163407">
+                <br>
+                <br>
+                <!--<input type = "checkbox" name = "chk[]" value = "salary" /> salary<br>-->
+                <!--<input type = "checkbox" name = "chk[]" value = "designation" /> designation<br>-->
+                <!--<input type = "checkbox" name = "chk[]" value = "project" /> project<br><br>-->
+                <select name = "salary_details">
+                    <option value = "Salary" selected>Salary</option>
+                    <option value = "Designation" >Designation</option>
+                    <option value = "Project">Project</option>
+                    <option value = "Salary Designation" >Salary with designation </option>
+                    <option value = "Salary Designation Project" >Salary with designation and project</option>
+                    <option value = "Current Salary" >Current Salary</option>
+                    <option value = "Current Salary Designation" >Current Salary with designation</option>
+                    <option value = "Current Salary Designation Project" >Current Salary with designation and project</option>
+                </select>
+                <input type = "submit" value = "Submit" a />
+
+         </fieldset>
+	</form>
+	
+</Body>
+</html>
