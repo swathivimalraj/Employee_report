@@ -1,3 +1,78 @@
-count number of employes for each role in each project
+count number of employees for each role in each project
 count no of employes joined and resigned each year and 
 miles go 10yrs 
+
+
+alter table employees modify resignation_date date  Default '9999-01-01' not null ;
+ desc employees;
++------------------+---------------+------+-----+------------+-------+
+| Field            | Type          | Null | Key | Default    | Extra |
++------------------+---------------+------+-----+------------+-------+
+| emp_no           | int(11)       | NO   | PRI | NULL       |       |
+| birth_date       | date          | YES  |     | 0000-00-00 |       |
+| first_name       | varchar(50)   | NO   |     | NULL       |       |
+| last_name        | varchar(30)   | NO   |     | NULL       |       |
+| gender           | enum('M','F') | NO   |     | NULL       |       |
+| hire_date        | date          | NO   |     | NULL       |       |
+| email_id         | varchar(200)  | NO   | UNI | NULL       |       |
+| resignation_date | date          | NO   |     | 9999-01-01 |       |
++------------------+---------------+------+-----+------------+-------+
+
+
+
+
+SELECT date(hire_date) FROM employee_db1.employees group by year(hire_date);
+
+1986-06-26
+1985-11-21
+1989-09-12
+1994-09-15
+1990-01-22
+1992-12-18
+1987-03-11
+1995-01-27
+1993-08-03
+1999-04-30
+1991-01-26
+1988-02-10
+1997-05-19
+1996-11-05
+1998-03-15
+
+SELECT hire_date FROM employee_db1.employees  group by year(hire_date) order by year(hire_date) desc;
+
+update employees set resignation_date='1987-9-23' where emp_no in (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 6);
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 6) as temp on temp.emp_no=e.emp_no set resignation_date='1987-9-23';
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 7,19) as temp on temp.emp_no=e.emp_no set resignation_date='1987-4-15';
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 19,30) as temp on temp.emp_no=e.emp_no set resignation_date='1987-12-25';
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 30,59) as temp on temp.emp_no=e.emp_no set resignation_date='1987-11-05';
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 30,59) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1987-2-23', INTERVAL ROUND(RAND(1)*10) DAY)) ;
+
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1985 limit 1,89) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1987-2-09', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1986 limit 1,56) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1988-08-29', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1987 limit 1,67) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1989-11-30', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1988 limit 1,34) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1990-4-19', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1989 limit 1,24) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1991-2-23', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1990 limit 1,53) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1992-5-22', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1991 limit 1,76) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1993-6-3', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1992 limit 1,39) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1994-1-16', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1994 limit 1,54) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('1997-12-13', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+update employees as e inner join (SELECT emp_no FROM employee_db1.employees where year(hire_date)=1999 limit 1,20) as temp on temp.emp_no=e.emp_no set resignation_date=DATE(DATE_SUB('2002-8-16', INTERVAL ROUND(RAND(1)*10) MONTH)) ;
+
+
+

@@ -9,6 +9,7 @@ CREATE TABLE employees (
     last_name   VARCHAR(30)     NOT NULL,
     gender      ENUM ('M','F')  NOT NULL,    
     hire_date   DATE            NOT NULL,
+	resignation_date   DATE            NOT NULL,
 	email_id   VARCHAR(200)     NOT NULL,
 	UNIQUE KEY(email_id),
     PRIMARY KEY (emp_no)
