@@ -8,16 +8,10 @@ class Database_Connection:
         self.crsr = self.db.cursor()
     def query_data(self,query):
         self.crsr.execute(query)
-        return self.crsr.fetchall()
+        return self.crsr.fetchall(),[i[0].encode('utf8') for i in self.crsr.description]
     def query_col_names(self,query):
         self.crsr.execute(query)
         return [i[0].encode('utf8') for i in self.crsr.description]
 
-    def query_table_to_list(self,query):
-        self.crsr.execute(query)
-        header = self.query_col_names(query)
-        res = self.query_data(query)
-        res.insert(0, header)
-        return res
     def __del__(self):
         self.db.close()

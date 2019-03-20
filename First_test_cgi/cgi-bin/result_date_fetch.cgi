@@ -7,13 +7,14 @@ import HTML_TableGenerator as HT
 import Queries_FileHandling as QF
 import Database_Query_Fetch as DF
 
+
 def HTMLTop():
     print ("""Content-type:text/html\n\n
             <?DOCTYPE html>
             <html lang="en">
                 <head>
                         <meta charset="utf-8"/>
-                        <title>Employee Report</title>
+                        <title>Result Query Report</title>
                         <style>
                             h3
                             {
@@ -32,19 +33,16 @@ def HTMLTop():
 
 def HtmBody():
     formData=cgi.FieldStorage()
-    emp_no=formData.getvalue('emp_no')
-    field_select=formData.getvalue('salary_details')+" History"
+    get_option=formData.getvalue('result_set')
     query_dict=DF.DBQuery_Extractor().fetch_Query('queries1.sql')
-    sql_query=DF.DBQuery_Extractor().named_query(query_dict[field_select.lower()],emp_no)
-    data_list,header_list=DQ.Database_Connection().query_data(sql_query)
+    data_list,header_list=DQ.Database_Connection().query_data(query_dict[get_option.lower()])
     htmcode=HT.CreateHTMLTable().createHTML(data_list,header_list)
-    print "<h3>"+field_select+" for employee_num "+emp_no+"</h3>"
+    print "<h3>"+get_option.upper()+"</h3>"
     print htmcode
 
 
 def HTMLTail():
     print("""
-        <br><br><a href="First_test_cgi/Emp_index.html" style="text-decoration: none"><button>Back</button></a>
         </body>
         </html>""")
 

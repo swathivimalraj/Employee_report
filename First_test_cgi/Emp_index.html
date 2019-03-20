@@ -15,7 +15,7 @@
 	</head>
 <Body>
 
-	<form method="post" action="emp_fetch.cgi" name="emp_fetch">
+	<form method="post" action="cgi-bin/emp_fetch.cgi" name="emp_fetch">
         <fieldset name="salary" >
             <legend><b>Salary:</b></legend>
                 Employee No:	<input type="text" name="emp_no" placeholder="eg:1163407">
@@ -34,7 +34,28 @@
                     <option value = "Current Salary Designation" >Current Salary with designation</option>
                     <option value = "Current Salary Designation Project" >Current Salary with designation and project</option>
                 </select>
-                <input type = "submit" value = "Submit" a />
+                <input type = "submit" value = "Submit"  />
+
+         </fieldset>
+    </form>
+    <form method="post" action="cgi-bin/result_date_fetch.cgi" name="result_date_fetch">
+        <fieldset name="Result_query" >
+            <legend><b>ResultSet</b></legend>
+                <select name = "result_set">
+
+                    <option value = "Miles To Go" >Miles To Go</option>
+                    <option value = "employees joined each year" >Employees Joined - Every year</option>
+                    <option value = "employees resigned each year" >Employees Resigned - Every year</option>
+                    <option value = "employees count designation project" >Employees count -Every project with designation</option>
+                    <option value = "employees highest salary project" >Employees highest salary -Every Project</option>
+                    <option value="employees designation period">Employees Designation period</option>
+                    <option value="manager supervising many projects">Employees Supervising many projects</option>
+                    <option value="lateral entry">Lateral Entry</option>
+
+
+
+                </select>
+                <input type = "submit" value = "Submit"  />
 
          </fieldset>
 	</form>
