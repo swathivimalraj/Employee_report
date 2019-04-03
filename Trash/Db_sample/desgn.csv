@@ -1,0 +1,1484 @@
+emp_no,designation,from_date,to_date
+10001,TL-Software Engineering Team Lead,6/26/1986,1/1/9999
+10002,ASE-Associate Software Engineer,8/3/1996,1/1/9999
+10003,TL-Software Engineering Team Lead,12/3/1995,1/1/9999
+10004,SSE- Senior Software Engineer,12/1/1986,12/1/1995
+10004,TL-Software Engineering Team Lead,12/1/1995,1/1/9999
+10005,SE-Software Engineering Analyst,9/12/1996,1/1/9999
+10005,ASE-Associate Software Engineer,9/12/1989,9/12/1996
+10006,TL-Software Engineering Team Lead,8/5/1990,1/1/9999
+10007,SE-Software Engineering Analyst,2/11/1996,1/1/9999
+10007,ASE-Associate Software Engineer,2/10/1989,2/11/1996
+10008,AM-Software Engineering Associate Manager,3/11/1998,7/31/2000
+10009,AM-Software Engineering Associate Manager,2/18/1985,2/18/1990
+10009,SSE- Senior Software Engineer,2/18/1990,2/18/1995
+10009,TL-Software Engineering Team Lead,2/18/1995,1/1/9999
+10010,SSE- Senior Software Engineer,11/24/1996,1/1/9999
+10011,ASE-Associate Software Engineer,1/22/1990,11/9/1996
+10012,SSE- Senior Software Engineer,12/18/1992,12/18/2000
+10012,TL-Software Engineering Team Lead,12/18/2000,1/1/9999
+10013,SE-Software Engineering Analyst,10/20/1985,1/1/9999
+10014,SSE- Senior Software Engineer,12/29/1993,1/1/9999
+10015,SE-Software Engineering Analyst,9/19/1992,8/22/1993
+10016,ASE-Associate Software Engineer,2/11/1998,1/1/9999
+10017,SE-Software Engineering Analyst,8/3/2000,1/1/9999
+10017,ASE-Associate Software Engineer,8/3/1993,8/3/2000
+10018,SSE- Senior Software Engineer,4/3/1987,4/3/1995
+10018,TL-Software Engineering Team Lead,4/3/1995,1/1/9999
+10019,ASE-Associate Software Engineer,4/30/1999,1/1/9999
+10020,SSE- Senior Software Engineer,12/30/1997,1/1/9999
+10021,M-Software Engineering Manager,2/10/1988,7/15/2002
+10022,SSE- Senior Software Engineer,9/3/1999,1/1/9999
+10023,SSE- Senior Software Engineer,9/27/1999,1/1/9999
+10024,AM-Software Engineering Associate Manager,6/14/1998,1/1/9999
+10025,M-Software Engineering Manager,8/17/1987,10/15/1997
+10026,SSE- Senior Software Engineer,3/20/1995,3/19/2001
+10026,TL-Software Engineering Team Lead,3/19/2001,1/1/9999
+10027,SSE- Senior Software Engineer,4/2/1995,4/1/2001
+10027,TL-Software Engineering Team Lead,4/1/2001,1/1/9999
+10028,SSE- Senior Software Engineer,10/22/1991,4/6/1998
+10029,SSE- Senior Software Engineer,9/18/1991,9/17/2000
+10029,TL-Software Engineering Team Lead,9/17/2000,1/1/9999
+10030,SSE- Senior Software Engineer,2/17/1994,2/17/2001
+10030,TL-Software Engineering Team Lead,2/17/2001,1/1/9999
+10031,SSE- Senior Software Engineer,9/1/1991,9/1/1998
+10031,TL-Software Engineering Team Lead,9/1/1998,1/1/9999
+10032,SSE- Senior Software Engineer,6/20/1990,6/20/1995
+10032,TL-Software Engineering Team Lead,6/20/1995,1/1/9999
+10033,M-Software Engineering Manager,3/18/1987,3/24/1993
+10034,ASE-Associate Software Engineer,4/12/1995,10/31/1999
+10035,SSE- Senior Software Engineer,9/5/1988,9/5/1996
+10035,TL-Software Engineering Team Lead,9/5/1996,1/1/9999
+10036,SE-Software Engineering Analyst,4/28/1992,1/1/9999
+10037,SSE- Senior Software Engineer,12/5/1990,12/5/1995
+10037,TL-Software Engineering Team Lead,12/5/1995,1/1/9999
+10038,SE-Software Engineering Analyst,9/20/1996,1/1/9999
+10038,ASE-Associate Software Engineer,9/20/1989,9/20/1996
+10039,SE-Software Engineering Analyst,1/18/1997,1/1/9999
+10039,ASE-Associate Software Engineer,1/19/1988,1/18/1997
+10040,SSE- Senior Software Engineer,2/14/1993,2/14/1999
+10040,TL-Software Engineering Team Lead,2/14/1999,1/1/9999
+10041,SE-Software Engineering Analyst,11/12/1998,1/1/9999
+10041,ASE-Associate Software Engineer,11/12/1989,11/12/1998
+10042,SE-Software Engineering Analyst,3/21/2000,8/10/2000
+10042,ASE-Associate Software Engineer,3/21/1993,3/21/2000
+10043,SSE- Senior Software Engineer,10/20/1990,10/20/1997
+10043,TL-Software Engineering Team Lead,10/20/1997,1/1/9999
+10044,M-Software Engineering Manager,5/21/1994,1/1/9999
+10045,SSE- Senior Software Engineer,11/16/1996,1/1/9999
+10046,SE-Software Engineering Analyst,6/20/2000,1/1/9999
+10046,ASE-Associate Software Engineer,6/20/1992,6/20/2000
+10047,SSE- Senior Software Engineer,3/31/1989,3/31/1998
+10047,TL-Software Engineering Team Lead,3/31/1998,1/1/9999
+10048,SSE- Senior Software Engineer,2/24/1985,1/27/1987
+10049,SE-Software Engineering Analyst,5/4/2000,1/1/9999
+10049,ASE-Associate Software Engineer,5/4/1992,5/4/2000
+10050,SE-Software Engineering Analyst,12/25/1999,1/1/9999
+10050,ASE-Associate Software Engineer,12/25/1990,12/25/1999
+10051,SSE- Senior Software Engineer,10/15/1992,10/15/1998
+10051,TL-Software Engineering Team Lead,10/15/1998,1/1/9999
+10052,SE-Software Engineering Analyst,1/31/2002,1/1/9999
+10052,ASE-Associate Software Engineer,1/31/1997,1/31/2002
+10053,SE-Software Engineering Analyst,11/13/1994,1/1/9999
+10054,SE-Software Engineering Analyst,7/28/2000,1/1/9999
+10054,ASE-Associate Software Engineer,7/29/1995,7/28/2000
+10055,ASE-Associate Software Engineer,4/27/1992,7/22/1995
+10056,SSE- Senior Software Engineer,2/1/1990,2/1/1999
+10056,TL-Software Engineering Team Lead,2/1/1999,1/1/9999
+10057,SSE- Senior Software Engineer,1/15/1992,1/15/2000
+10057,TL-Software Engineering Team Lead,1/15/2000,1/1/9999
+10058,SE-Software Engineering Analyst,4/25/1988,1/1/9999
+10059,SE-Software Engineering Analyst,6/26/1991,1/1/9999
+10060,SE-Software Engineering Analyst,5/28/1996,1/1/9999
+10060,ASE-Associate Software Engineer,5/28/1989,5/28/1996
+10061,SE-Software Engineering Analyst,12/2/1989,1/1/9999
+10062,SSE- Senior Software Engineer,8/30/1991,8/30/1999
+10062,TL-Software Engineering Team Lead,8/30/1999,1/1/9999
+10063,TL-Software Engineering Team Lead,4/8/1989,1/1/9999
+10064,ASE-Associate Software Engineer,11/20/1985,3/2/1992
+10065,SSE- Senior Software Engineer,5/24/1998,1/1/9999
+10066,AM-Software Engineering Associate Manager,2/26/1986,2/26/1992
+10066,SSE- Senior Software Engineer,2/26/1992,2/25/1998
+10066,TL-Software Engineering Team Lead,2/25/1998,1/1/9999
+10067,SSE- Senior Software Engineer,3/4/1987,3/3/1996
+10067,TL-Software Engineering Team Lead,3/3/1996,1/1/9999
+10068,SE-Software Engineering Analyst,8/6/1996,1/1/9999
+10068,ASE-Associate Software Engineer,8/7/1987,8/6/1996
+10069,M-Software Engineering Manager,6/14/1992,1/1/9999
+10070,M-Software Engineering Manager,10/14/1985,1/1/9999
+10071,ASE-Associate Software Engineer,8/5/1995,1/1/9999
+10072,SSE- Senior Software Engineer,5/21/1989,5/21/1995
+10072,TL-Software Engineering Team Lead,5/21/1995,1/1/9999
+10073,SSE- Senior Software Engineer,2/2/1998,2/22/1998
+10074,M-Software Engineering Manager,8/13/1990,1/1/9999
+10075,TL-Software Engineering Team Lead,5/17/1988,1/15/2001
+10076,TL-Software Engineering Team Lead,7/15/1996,1/1/9999
+10077,ASE-Associate Software Engineer,12/23/1994,1/1/9999
+10078,SSE- Senior Software Engineer,9/29/1994,1/1/9999
+10079,M-Software Engineering Manager,12/13/1995,1/1/9999
+10080,SE-Software Engineering Analyst,9/28/2001,1/1/9999
+10080,ASE-Associate Software Engineer,9/28/1994,9/28/2001
+10081,SSE- Senior Software Engineer,10/30/1986,10/30/1991
+10081,TL-Software Engineering Team Lead,10/30/1991,1/1/9999
+10082,ASE-Associate Software Engineer,1/3/1990,1/15/1990
+10083,SSE- Senior Software Engineer,3/31/1987,3/31/1994
+10083,TL-Software Engineering Team Lead,3/31/1994,1/1/9999
+10084,SSE- Senior Software Engineer,12/15/1995,12/14/2001
+10084,TL-Software Engineering Team Lead,12/14/2001,1/1/9999
+10085,TL-Software Engineering Team Lead,4/9/1994,1/1/9999
+10086,SE-Software Engineering Analyst,2/19/1999,1/1/9999
+10086,ASE-Associate Software Engineer,2/19/1992,2/19/1999
+10087,ASE-Associate Software Engineer,5/8/1997,1/9/2001
+10088,SE-Software Engineering Analyst,9/2/1993,1/1/9999
+10088,ASE-Associate Software Engineer,9/2/1988,9/2/1993
+10089,SE-Software Engineering Analyst,1/11/1996,1/1/9999
+10089,ASE-Associate Software Engineer,1/10/1989,1/11/1996
+10090,TL-Software Engineering Team Lead,3/14/1986,5/7/1999
+10091,SSE- Senior Software Engineer,11/18/1992,11/18/2001
+10091,TL-Software Engineering Team Lead,11/18/2001,1/1/9999
+10092,SSE- Senior Software Engineer,4/22/1996,1/1/9999
+10093,ASE-Associate Software Engineer,6/8/1997,1/1/9999
+10094,SE-Software Engineering Analyst,4/18/1987,11/8/1997
+10095,SE-Software Engineering Analyst,3/9/2000,1/1/9999
+10095,ASE-Associate Software Engineer,3/10/1994,3/9/2000
+10096,SSE- Senior Software Engineer,1/23/1999,1/1/9999
+10097,SE-Software Engineering Analyst,9/14/1996,1/1/9999
+10097,ASE-Associate Software Engineer,9/15/1990,9/14/1996
+10098,SSE- Senior Software Engineer,5/13/1985,5/13/1992
+10098,TL-Software Engineering Team Lead,5/13/1992,12/11/1992
+10099,SE-Software Engineering Analyst,10/19/1995,1/1/9999
+10099,ASE-Associate Software Engineer,10/18/1988,10/19/1995
+10100,SE-Software Engineering Analyst,9/21/1994,1/1/9999
+10100,ASE-Associate Software Engineer,9/21/1987,9/21/1994
+10101,ASE-Associate Software Engineer,10/14/1998,9/23/2000
+10102,AM-Software Engineering Associate Manager,1/2/1995,1/2/2002
+10102,SSE- Senior Software Engineer,1/2/2002,1/1/9999
+10103,SSE- Senior Software Engineer,1/12/1998,1/1/9999
+10104,SE-Software Engineering Analyst,4/16/1987,1/1/9999
+10105,ASE-Associate Software Engineer,5/17/1999,6/11/2001
+10106,SSE- Senior Software Engineer,10/27/1991,10/26/1997
+10106,TL-Software Engineering Team Lead,10/26/1997,1/1/9999
+10107,SE-Software Engineering Analyst,3/30/1999,1/1/9999
+10108,ASE-Associate Software Engineer,3/20/1999,10/20/2001
+10109,SSE- Senior Software Engineer,6/16/1993,6/16/2001
+10109,TL-Software Engineering Team Lead,6/16/2001,1/1/9999
+10110,SE-Software Engineering Analyst,8/21/1992,1/1/9999
+10110,ASE-Associate Software Engineer,8/22/1986,8/21/1992
+10111,SSE- Senior Software Engineer,12/19/1988,12/19/1996
+10111,TL-Software Engineering Team Lead,12/19/1996,1/1/9999
+10112,ASE-Associate Software Engineer,5/1/1998,1/1/9999
+10113,SSE- Senior Software Engineer,9/14/1998,1/1/9999
+10114,SE-Software Engineering Analyst,7/18/1999,1/1/9999
+10114,ASE-Associate Software Engineer,7/17/1992,7/18/1999
+10115,ASE-Associate Software Engineer,3/3/1988,5/24/1992
+10116,TL-Software Engineering Team Lead,2/27/1994,11/1/1998
+10117,TL-Software Engineering Team Lead,3/19/1992,1/1/9999
+10118,TL-Software Engineering Team Lead,2/2/1992,1/1/9999
+10119,SSE- Senior Software Engineer,12/9/1993,10/30/1997
+10120,SSE- Senior Software Engineer,7/6/1996,1/1/9999
+10121,SSE- Senior Software Engineer,5/3/1989,5/3/1996
+10121,TL-Software Engineering Team Lead,5/3/1996,1/1/9999
+10122,M-Software Engineering Manager,8/6/1998,1/1/9999
+10123,AM-Software Engineering Associate Manager,1/15/1993,1/15/1999
+10123,SSE- Senior Software Engineer,1/15/1999,1/1/9999
+10124,SSE- Senior Software Engineer,9/5/1991,9/5/1998
+10124,TL-Software Engineering Team Lead,9/5/1998,1/1/9999
+10125,ASE-Associate Software Engineer,10/26/1990,3/25/1996
+10126,SE-Software Engineering Analyst,9/8/1991,1/1/9999
+10126,ASE-Associate Software Engineer,9/8/1985,9/8/1991
+10127,TL-Software Engineering Team Lead,5/17/1991,1/1/9999
+10128,SE-Software Engineering Analyst,6/7/1995,1/1/9999
+10128,ASE-Associate Software Engineer,6/6/1988,6/7/1995
+10129,M-Software Engineering Manager,1/16/1996,1/1/9999
+10130,TL-Software Engineering Team Lead,6/21/1988,1/1/9999
+10131,SSE- Senior Software Engineer,9/17/1999,12/6/1999
+10132,ASE-Associate Software Engineer,6/18/1997,1/1/9999
+10133,SSE- Senior Software Engineer,12/15/1985,12/15/1991
+10133,TL-Software Engineering Team Lead,12/15/1991,1/1/9999
+10134,SSE- Senior Software Engineer,12/12/1987,12/12/1994
+10134,TL-Software Engineering Team Lead,12/12/1994,1/1/9999
+10135,AM-Software Engineering Associate Manager,1/4/1990,1/4/1999
+10135,SSE- Senior Software Engineer,1/4/1999,1/1/9999
+10136,SE-Software Engineering Analyst,6/13/1997,9/20/1999
+10136,ASE-Associate Software Engineer,6/13/1988,6/13/1997
+10137,SE-Software Engineering Analyst,2/18/1994,1/1/9999
+10137,ASE-Associate Software Engineer,2/18/1985,2/18/1994
+10138,SSE- Senior Software Engineer,3/3/1992,3/3/2001
+10138,TL-Software Engineering Team Lead,3/3/2001,1/1/9999
+10139,SSE- Senior Software Engineer,3/15/1998,1/1/9999
+10140,SE-Software Engineering Analyst,3/14/1998,1/1/9999
+10140,ASE-Associate Software Engineer,3/14/1991,3/14/1998
+10141,SE-Software Engineering Analyst,7/23/1998,1/1/9999
+10142,SSE- Senior Software Engineer,10/28/1993,10/28/2001
+10142,TL-Software Engineering Team Lead,10/28/2001,1/1/9999
+10143,SSE- Senior Software Engineer,9/30/1988,9/30/1993
+10143,TL-Software Engineering Team Lead,9/30/1993,1/1/9999
+10144,SE-Software Engineering Analyst,10/14/1992,8/10/1993
+10144,ASE-Associate Software Engineer,10/14/1985,10/14/1992
+10145,SSE- Senior Software Engineer,11/3/1999,1/1/9999
+10146,ASE-Associate Software Engineer,6/28/1988,9/7/1990
+10147,SE-Software Engineering Analyst,12/18/1995,1/1/9999
+10147,ASE-Associate Software Engineer,12/18/1987,12/18/1995
+10148,ASE-Associate Software Engineer,7/15/1996,1/1/9999
+10149,ASE-Associate Software Engineer,1/28/1994,8/27/1996
+10150,SSE- Senior Software Engineer,11/16/1986,11/16/1995
+10150,TL-Software Engineering Team Lead,11/16/1995,1/1/9999
+10151,SE-Software Engineering Analyst,12/12/1997,1/1/9999
+10151,ASE-Associate Software Engineer,12/12/1992,12/12/1997
+10152,SSE- Senior Software Engineer,1/27/1986,8/3/1987
+10153,AM-Software Engineering Associate Manager,1/8/2000,1/1/9999
+10154,ASE-Associate Software Engineer,10/23/1996,1/1/9999
+10155,SE-Software Engineering Analyst,1/5/1996,1/1/9999
+10155,ASE-Associate Software Engineer,1/5/1990,1/5/1996
+10156,SSE- Senior Software Engineer,5/14/1993,5/14/2001
+10156,TL-Software Engineering Team Lead,5/14/2001,1/1/9999
+10157,TL-Software Engineering Team Lead,12/10/1997,1/1/9999
+10158,SSE- Senior Software Engineer,6/4/1987,6/3/1996
+10158,TL-Software Engineering Team Lead,6/3/1996,1/1/9999
+10159,TL-Software Engineering Team Lead,6/12/1996,1/1/9999
+10160,SE-Software Engineering Analyst,12/6/2000,1/1/9999
+10160,ASE-Associate Software Engineer,12/6/1993,12/6/2000
+10161,SSE- Senior Software Engineer,6/9/1991,1/5/1994
+10162,SSE- Senior Software Engineer,5/27/1998,1/1/9999
+10163,SE-Software Engineering Analyst,2/2/1992,1/1/9999
+10164,SSE- Senior Software Engineer,10/19/1990,10/19/1999
+10164,TL-Software Engineering Team Lead,10/19/1999,1/1/9999
+10165,SE-Software Engineering Analyst,5/17/1988,1/1/9999
+10166,SSE- Senior Software Engineer,9/2/1996,1/1/9999
+10167,SSE- Senior Software Engineer,4/4/1992,4/4/2001
+10167,TL-Software Engineering Team Lead,4/4/2001,1/1/9999
+10168,SE-Software Engineering Analyst,12/6/1995,1/1/9999
+10168,ASE-Associate Software Engineer,12/6/1986,12/6/1995
+10169,SSE- Senior Software Engineer,6/28/1998,1/1/9999
+10170,SSE- Senior Software Engineer,1/2/1986,2/6/1989
+10171,M-Software Engineering Manager,8/5/1996,1/1/9999
+10172,SSE- Senior Software Engineer,2/4/1998,1/1/9999
+10173,SE-Software Engineering Analyst,3/22/1999,1/1/9999
+10173,ASE-Associate Software Engineer,3/21/1992,3/22/1999
+10174,SSE- Senior Software Engineer,6/1/1987,6/1/1995
+10174,TL-Software Engineering Team Lead,6/1/1995,1/1/9999
+10175,ASE-Associate Software Engineer,9/24/1988,5/24/1995
+10176,SE-Software Engineering Analyst,12/22/1999,1/1/9999
+10176,ASE-Associate Software Engineer,12/22/1994,12/22/1999
+10177,ASE-Associate Software Engineer,2/6/1993,3/17/1994
+10178,ASE-Associate Software Engineer,3/21/1994,1/1/9999
+10179,SSE- Senior Software Engineer,1/25/2000,1/1/9999
+10180,SE-Software Engineering Analyst,7/1/2002,1/1/9999
+10180,ASE-Associate Software Engineer,7/1/1994,7/1/2002
+10181,TL-Software Engineering Team Lead,6/22/1988,1/1/9999
+10182,SSE- Senior Software Engineer,9/2/1990,9/2/1995
+10182,TL-Software Engineering Team Lead,9/2/1995,1/1/9999
+10183,ASE-Associate Software Engineer,8/11/1996,1/1/9999
+10184,ASE-Associate Software Engineer,12/26/1997,1/1/9999
+10185,SE-Software Engineering Analyst,2/29/1992,1/1/9999
+10185,ASE-Associate Software Engineer,3/1/1986,2/29/1992
+10186,ASE-Associate Software Engineer,12/25/1996,8/16/1997
+10187,SE-Software Engineering Analyst,5/31/2000,1/1/9999
+10187,ASE-Associate Software Engineer,6/1/1991,5/31/2000
+10188,TL-Software Engineering Team Lead,8/27/1987,1/1/9999
+10189,SSE- Senior Software Engineer,9/13/1992,6/29/1993
+10190,SSE- Senior Software Engineer,6/23/1986,6/23/1994
+10190,TL-Software Engineering Team Lead,6/23/1994,1/1/9999
+10191,TL-Software Engineering Team Lead,4/10/1986,1/1/9999
+10192,SSE- Senior Software Engineer,6/13/1988,6/13/1993
+10192,TL-Software Engineering Team Lead,6/13/1993,1/1/9999
+10193,SSE- Senior Software Engineer,9/21/1996,1/1/9999
+10194,SE-Software Engineering Analyst,2/14/2002,1/1/9999
+10194,ASE-Associate Software Engineer,2/14/1997,2/14/2002
+10195,SSE- Senior Software Engineer,2/15/1985,2/15/1991
+10195,TL-Software Engineering Team Lead,2/15/1991,4/14/2001
+10196,ASE-Associate Software Engineer,1/31/1999,1/1/9999
+10197,SSE- Senior Software Engineer,6/28/1994,6/28/2001
+10197,TL-Software Engineering Team Lead,6/28/2001,1/1/9999
+10198,SSE- Senior Software Engineer,8/31/1985,8/31/1993
+10198,TL-Software Engineering Team Lead,8/31/1993,1/1/9999
+10199,ASE-Associate Software Engineer,2/7/1998,1/1/9999
+10200,SSE- Senior Software Engineer,2/17/1994,2/17/2000
+10200,TL-Software Engineering Team Lead,2/17/2000,1/1/9999
+10201,SSE- Senior Software Engineer,11/10/1992,11/10/1998
+10201,TL-Software Engineering Team Lead,11/10/1998,1/1/9999
+10202,SSE- Senior Software Engineer,10/6/1991,10/5/2000
+10202,TL-Software Engineering Team Lead,10/5/2000,1/1/9999
+10203,SE-Software Engineering Analyst,4/6/1995,1/1/9999
+10203,ASE-Associate Software Engineer,4/6/1989,4/6/1995
+10204,SSE- Senior Software Engineer,12/18/1998,3/8/1999
+10205,TL-Software Engineering Team Lead,8/23/1993,1/1/9999
+10206,M-Software Engineering Manager,4/19/1988,1/1/9999
+10207,SSE- Senior Software Engineer,10/11/1992,10/11/1997
+10207,TL-Software Engineering Team Lead,10/11/1997,1/1/9999
+10208,ASE-Associate Software Engineer,2/5/1995,5/15/1999
+10209,SE-Software Engineering Analyst,11/22/1997,1/1/9999
+10209,ASE-Associate Software Engineer,11/23/1991,11/22/1997
+10210,SE-Software Engineering Analyst,2/23/2002,1/1/9999
+10210,ASE-Associate Software Engineer,2/24/1996,2/23/2002
+10211,SSE- Senior Software Engineer,11/22/1991,11/21/1996
+10211,TL-Software Engineering Team Lead,11/21/1996,1/1/9999
+10212,SSE- Senior Software Engineer,1/28/1996,1/27/2001
+10212,TL-Software Engineering Team Lead,1/27/2001,1/1/9999
+10213,ASE-Associate Software Engineer,10/6/1994,1/1/9999
+10214,SE-Software Engineering Analyst,2/29/1988,1/1/9999
+10215,SE-Software Engineering Analyst,11/23/1991,1/1/9999
+10216,SE-Software Engineering Analyst,10/29/1993,1/1/9999
+10216,ASE-Associate Software Engineer,10/30/1987,10/29/1993
+10217,M-Software Engineering Manager,5/12/1986,8/5/1993
+10218,TL-Software Engineering Team Lead,1/31/1997,1/1/9999
+10219,SE-Software Engineering Analyst,3/31/1993,1/1/9999
+10220,ASE-Associate Software Engineer,9/16/1997,1/1/9999
+10221,SSE- Senior Software Engineer,6/8/1988,6/8/1997
+10221,TL-Software Engineering Team Lead,6/8/1997,10/4/2000
+10222,AM-Software Engineering Associate Manager,6/8/1986,6/8/1995
+10222,SSE- Senior Software Engineer,6/8/1995,1/1/9999
+10223,SSE- Senior Software Engineer,4/1/1998,1/1/9999
+10224,SSE- Senior Software Engineer,1/9/1988,1/9/1996
+10224,TL-Software Engineering Team Lead,1/9/1996,1/1/9999
+10225,ASE-Associate Software Engineer,12/14/1995,1/1/9999
+10226,ASE-Associate Software Engineer,1/29/1996,1/1/9999
+10227,M-Software Engineering Manager,11/1/1994,1/1/9999
+10228,SE-Software Engineering Analyst,12/22/1998,1/1/9999
+10228,ASE-Associate Software Engineer,12/22/1992,12/22/1998
+10229,SSE- Senior Software Engineer,2/20/1996,6/30/2000
+10230,SE-Software Engineering Analyst,6/16/2002,1/1/9999
+10230,ASE-Associate Software Engineer,6/16/1996,6/16/2002
+10231,ASE-Associate Software Engineer,9/9/1998,1/1/9999
+10232,SE-Software Engineering Analyst,6/4/1998,1/1/9999
+10232,ASE-Associate Software Engineer,6/4/1992,6/4/1998
+10233,SE-Software Engineering Analyst,4/28/2000,1/1/9999
+10233,ASE-Associate Software Engineer,4/29/1994,4/28/2000
+10234,SE-Software Engineering Analyst,11/19/1995,8/6/1999
+10234,ASE-Associate Software Engineer,11/19/1990,11/19/1995
+10235,TL-Software Engineering Team Lead,4/6/1995,1/1/9999
+10236,ASE-Associate Software Engineer,8/30/1996,1/1/9999
+10237,SE-Software Engineering Analyst,8/11/1997,2/21/2000
+10237,ASE-Associate Software Engineer,8/11/1989,8/11/1997
+10238,SSE- Senior Software Engineer,3/31/1995,1/1/9999
+10239,ASE-Associate Software Engineer,5/4/1996,1/1/9999
+10240,SSE- Senior Software Engineer,10/6/1998,1/1/9999
+10241,SE-Software Engineering Analyst,6/13/1995,1/1/9999
+10241,ASE-Associate Software Engineer,6/12/1988,6/13/1995
+10242,SSE- Senior Software Engineer,1/18/1988,1/18/1995
+10242,TL-Software Engineering Team Lead,1/18/1995,1/1/9999
+10243,SE-Software Engineering Analyst,6/7/1986,1/1/9999
+10244,SSE- Senior Software Engineer,9/16/1999,1/1/9999
+10245,ASE-Associate Software Engineer,4/21/1994,2/20/1995
+10246,TL-Software Engineering Team Lead,2/1/1991,1/1/9999
+10247,SSE- Senior Software Engineer,8/14/1992,8/14/1998
+10247,TL-Software Engineering Team Lead,8/14/1998,1/1/9999
+10248,SE-Software Engineering Analyst,8/12/1997,1/1/9999
+10248,ASE-Associate Software Engineer,8/13/1991,8/12/1997
+10249,SSE- Senior Software Engineer,12/8/1991,12/7/2000
+10249,TL-Software Engineering Team Lead,12/7/2000,1/1/9999
+10250,SSE- Senior Software Engineer,8/30/1992,8/30/2001
+10250,TL-Software Engineering Team Lead,8/30/2001,1/1/9999
+10251,SE-Software Engineering Analyst,6/25/2001,1/1/9999
+10251,ASE-Associate Software Engineer,6/25/1992,6/25/2001
+10252,SSE- Senior Software Engineer,11/8/1990,11/8/1998
+10252,TL-Software Engineering Team Lead,11/8/1998,1/1/9999
+10253,SE-Software Engineering Analyst,2/21/1993,3/20/1994
+10253,ASE-Associate Software Engineer,2/21/1985,2/21/1993
+10254,SE-Software Engineering Analyst,6/14/1998,1/1/9999
+10254,ASE-Associate Software Engineer,6/14/1990,6/14/1998
+10255,SSE- Senior Software Engineer,5/12/1993,5/12/1999
+10255,TL-Software Engineering Team Lead,5/12/1999,11/14/1999
+10256,SE-Software Engineering Analyst,10/12/1990,1/1/9999
+10256,ASE-Associate Software Engineer,10/12/1985,10/12/1990
+10257,M-Software Engineering Manager,7/16/1997,1/1/9999
+10258,AM-Software Engineering Associate Manager,5/17/1985,5/17/1991
+10258,SSE- Senior Software Engineer,5/17/1991,5/16/1997
+10258,TL-Software Engineering Team Lead,5/16/1997,1/1/9999
+10259,SE-Software Engineering Analyst,7/24/1993,1/6/1999
+10259,ASE-Associate Software Engineer,7/25/1987,7/24/1993
+10260,SSE- Senior Software Engineer,2/1/1993,2/1/2002
+10260,TL-Software Engineering Team Lead,2/1/2002,1/1/9999
+10261,TL-Software Engineering Team Lead,9/11/1996,2/23/1999
+10262,ASE-Associate Software Engineer,1/22/1996,1/1/9999
+10263,ASE-Associate Software Engineer,12/21/1996,1/1/9999
+10264,SSE- Senior Software Engineer,7/16/1997,1/1/9999
+10265,TL-Software Engineering Team Lead,9/12/1997,1/1/9999
+10266,TL-Software Engineering Team Lead,5/25/1990,1/1/9999
+10267,SSE- Senior Software Engineer,4/26/1997,1/1/9999
+10268,SSE- Senior Software Engineer,12/17/1986,8/17/1990
+10269,SSE- Senior Software Engineer,7/24/1988,7/24/1996
+10269,TL-Software Engineering Team Lead,7/24/1996,1/1/9999
+10270,SE-Software Engineering Analyst,9/26/1999,1/1/9999
+10270,ASE-Associate Software Engineer,9/26/1991,9/26/1999
+10271,SSE- Senior Software Engineer,5/23/1986,5/22/1992
+10271,TL-Software Engineering Team Lead,5/22/1992,1/1/9999
+10272,ASE-Associate Software Engineer,10/23/1997,1/1/9999
+10273,SE-Software Engineering Analyst,11/6/1991,1/1/9999
+10273,ASE-Associate Software Engineer,11/6/1985,11/6/1991
+10274,SSE- Senior Software Engineer,2/2/1997,1/1/9999
+10275,TL-Software Engineering Team Lead,9/8/1987,1/1/9999
+10276,SSE- Senior Software Engineer,10/19/1986,10/19/1993
+10276,TL-Software Engineering Team Lead,10/19/1993,2/4/2000
+10277,SE-Software Engineering Analyst,6/16/1991,1/1/9999
+10277,ASE-Associate Software Engineer,6/16/1985,6/16/1991
+10278,SSE- Senior Software Engineer,7/2/1993,2/14/1997
+10279,SSE- Senior Software Engineer,4/26/1995,1/1/9999
+10280,ASE-Associate Software Engineer,1/27/1995,1/1/9999
+10281,SSE- Senior Software Engineer,12/3/1994,12/2/2000
+10281,TL-Software Engineering Team Lead,12/2/2000,1/1/9999
+10282,AM-Software Engineering Associate Manager,5/2/1996,5/2/2001
+10282,SSE- Senior Software Engineer,5/2/2001,1/1/9999
+10283,SSE- Senior Software Engineer,5/25/1988,5/26/1995
+10283,TL-Software Engineering Team Lead,5/26/1995,1/1/9999
+10284,SSE- Senior Software Engineer,7/6/1999,1/1/9999
+10285,ASE-Associate Software Engineer,5/25/1995,1/1/9999
+10286,ASE-Associate Software Engineer,12/24/1994,1/24/1999
+10287,SE-Software Engineering Analyst,12/28/2000,1/1/9999
+10287,ASE-Associate Software Engineer,12/28/1992,12/28/2000
+10288,M-Software Engineering Manager,8/29/1994,1/1/9999
+10289,M-Software Engineering Manager,3/12/1993,1/31/2002
+10290,SSE- Senior Software Engineer,9/18/1991,9/17/1997
+10290,TL-Software Engineering Team Lead,9/17/1997,1/1/9999
+10291,SE-Software Engineering Analyst,3/30/1994,1/1/9999
+10291,ASE-Associate Software Engineer,3/30/1987,3/30/1994
+10292,SE-Software Engineering Analyst,6/5/1997,1/1/9999
+10292,ASE-Associate Software Engineer,6/5/1989,6/5/1997
+10293,SSE- Senior Software Engineer,12/12/1992,12/12/2001
+10293,TL-Software Engineering Team Lead,12/12/2001,1/1/9999
+10294,TL-Software Engineering Team Lead,1/30/1999,5/4/1999
+10295,SE-Software Engineering Analyst,6/18/2000,1/1/9999
+10295,ASE-Associate Software Engineer,6/19/1995,6/18/2000
+10296,SE-Software Engineering Analyst,9/16/1994,1/1/9999
+10296,ASE-Associate Software Engineer,9/16/1989,9/16/1994
+10297,SSE- Senior Software Engineer,5/28/1986,5/28/1995
+10297,TL-Software Engineering Team Lead,5/28/1995,1/1/9999
+10298,ASE-Associate Software Engineer,4/27/1999,1/1/9999
+10299,SE-Software Engineering Analyst,1/10/1997,1/1/9999
+10299,ASE-Associate Software Engineer,1/10/1990,1/10/1997
+10300,SSE- Senior Software Engineer,5/17/1991,5/16/1996
+10300,TL-Software Engineering Team Lead,5/16/1996,1/1/9999
+10301,SE-Software Engineering Analyst,5/24/1995,1/1/9999
+10301,ASE-Associate Software Engineer,5/23/1988,5/24/1995
+10302,SE-Software Engineering Analyst,7/22/1994,11/9/1999
+10302,ASE-Associate Software Engineer,7/22/1986,7/22/1994
+10303,TL-Software Engineering Team Lead,2/5/1990,11/15/2000
+10304,SE-Software Engineering Analyst,11/16/1997,5/8/2002
+10304,ASE-Associate Software Engineer,11/16/1992,11/16/1997
+10305,SSE- Senior Software Engineer,10/31/1988,6/2/1992
+10306,ASE-Associate Software Engineer,9/6/1993,1/1/9999
+10307,SSE- Senior Software Engineer,10/16/1999,1/1/9999
+10308,SE-Software Engineering Analyst,12/29/2001,1/1/9999
+10308,ASE-Associate Software Engineer,12/29/1992,12/29/2001
+10309,AM-Software Engineering Associate Manager,5/2/1997,1/1/9999
+10310,TL-Software Engineering Team Lead,10/24/1990,7/26/2001
+10311,SSE- Senior Software Engineer,11/4/1998,1/1/9999
+10312,TL-Software Engineering Team Lead,8/28/1986,1/1/9999
+10313,ASE-Associate Software Engineer,10/10/1994,1/1/9999
+10314,SE-Software Engineering Analyst,1/16/1994,1/1/9999
+10314,ASE-Associate Software Engineer,1/16/1986,1/16/1994
+10315,SSE- Senior Software Engineer,8/28/1987,8/28/1994
+10315,TL-Software Engineering Team Lead,8/28/1994,1/1/9999
+10316,SSE- Senior Software Engineer,12/18/1990,1/2/1991
+10317,ASE-Associate Software Engineer,1/24/1999,1/1/9999
+10318,SSE- Senior Software Engineer,3/23/1987,3/23/1995
+10318,TL-Software Engineering Team Lead,3/23/1995,1/1/9999
+10319,SE-Software Engineering Analyst,6/18/1999,1/1/9999
+10319,ASE-Associate Software Engineer,6/18/1994,6/18/1999
+10320,SE-Software Engineering Analyst,11/3/1996,12/23/2001
+10320,ASE-Associate Software Engineer,11/3/1988,11/3/1996
+10321,ASE-Associate Software Engineer,7/24/1995,8/14/1999
+10322,SSE- Senior Software Engineer,1/29/1990,1/29/1997
+10322,TL-Software Engineering Team Lead,1/29/1997,1/1/9999
+10323,SSE- Senior Software Engineer,6/6/1991,6/5/2000
+10323,TL-Software Engineering Team Lead,6/5/2000,1/1/9999
+10324,SSE- Senior Software Engineer,7/19/1999,1/1/9999
+10325,SE-Software Engineering Analyst,9/20/1990,1/1/9999
+10326,ASE-Associate Software Engineer,9/2/1998,1/1/9999
+10327,SSE- Senior Software Engineer,9/18/1987,5/22/1993
+10328,SSE- Senior Software Engineer,7/17/1998,1/1/9999
+10329,M-Software Engineering Manager,1/20/1986,1/1/9999
+10330,ASE-Associate Software Engineer,10/8/1993,1/1/9999
+10331,SE-Software Engineering Analyst,10/29/1991,1/1/9999
+10331,ASE-Associate Software Engineer,10/29/1986,10/29/1991
+10332,SSE- Senior Software Engineer,10/20/1988,10/20/1994
+10332,TL-Software Engineering Team Lead,10/20/1994,3/7/1997
+10333,SSE- Senior Software Engineer,1/16/1993,1/16/1998
+10333,TL-Software Engineering Team Lead,1/16/1998,1/1/9999
+10334,ASE-Associate Software Engineer,2/15/1998,1/1/9999
+10335,SE-Software Engineering Analyst,4/6/1992,1/1/9999
+10336,ASE-Associate Software Engineer,9/27/1996,1/1/9999
+10337,AM-Software Engineering Associate Manager,4/25/1998,1/1/9999
+10338,ASE-Associate Software Engineer,12/29/1999,1/1/9999
+10339,SSE- Senior Software Engineer,11/30/1989,11/30/1997
+10339,TL-Software Engineering Team Lead,11/30/1997,1/1/9999
+10340,SE-Software Engineering Analyst,3/30/1993,1/1/9999
+10340,ASE-Associate Software Engineer,3/30/1988,3/30/1993
+10341,M-Software Engineering Manager,4/29/1987,11/11/1998
+10342,SSE- Senior Software Engineer,7/25/1987,7/24/1993
+10342,TL-Software Engineering Team Lead,7/24/1993,1/1/9999
+10343,TL-Software Engineering Team Lead,10/3/1997,1/1/9999
+10344,AM-Software Engineering Associate Manager,4/19/1999,1/1/9999
+10345,SSE- Senior Software Engineer,11/8/1993,11/8/1998
+10345,TL-Software Engineering Team Lead,11/8/1998,1/1/9999
+10346,ASE-Associate Software Engineer,1/17/1992,4/20/1996
+10347,ASE-Associate Software Engineer,2/20/1998,1/1/9999
+10348,M-Software Engineering Manager,10/22/1995,1/1/9999
+10349,SE-Software Engineering Analyst,9/27/1997,1/1/9999
+10349,ASE-Associate Software Engineer,9/28/1991,9/27/1997
+10350,AM-Software Engineering Associate Manager,5/11/1991,5/10/1997
+10350,SSE- Senior Software Engineer,5/10/1997,1/16/1998
+10351,ASE-Associate Software Engineer,5/1/1995,1/1/9999
+10352,SSE- Senior Software Engineer,12/16/1998,1/1/9999
+10353,SE-Software Engineering Analyst,8/24/1989,1/1/9999
+10354,SE-Software Engineering Analyst,3/3/1999,1/1/2002
+10355,ASE-Associate Software Engineer,1/26/1996,1/1/9999
+10356,SE-Software Engineering Analyst,6/26/1995,1/1/9999
+10357,SSE- Senior Software Engineer,4/4/1994,4/3/1999
+10357,TL-Software Engineering Team Lead,4/3/1999,1/1/9999
+10358,M-Software Engineering Manager,2/19/1991,1/1/9999
+10359,SSE- Senior Software Engineer,7/20/1998,1/1/9999
+10360,ASE-Associate Software Engineer,9/4/1996,1/1/9999
+10361,SE-Software Engineering Analyst,10/23/1991,1/1/9999
+10361,ASE-Associate Software Engineer,10/23/1986,10/23/1991
+10362,SE-Software Engineering Analyst,11/2/1990,7/16/1997
+10363,AM-Software Engineering Associate Manager,9/11/1985,2/12/1993
+10364,TL-Software Engineering Team Lead,11/14/1985,1/1/9999
+10365,ASE-Associate Software Engineer,10/22/1987,4/4/1992
+10366,SSE- Senior Software Engineer,8/15/1997,1/1/9999
+10367,SE-Software Engineering Analyst,6/23/2000,1/1/9999
+10367,ASE-Associate Software Engineer,6/24/1991,6/23/2000
+10368,AM-Software Engineering Associate Manager,5/16/1996,1/1/9999
+10369,ASE-Associate Software Engineer,9/5/1994,1/1/9999
+10370,SE-Software Engineering Analyst,4/18/1998,1/1/9999
+10370,ASE-Associate Software Engineer,4/18/1992,4/18/1998
+10371,AM-Software Engineering Associate Manager,11/28/1989,11/28/1998
+10371,SSE- Senior Software Engineer,11/28/1998,1/1/9999
+10372,M-Software Engineering Manager,7/30/1985,1/1/9999
+10373,SSE- Senior Software Engineer,4/26/1997,1/1/9999
+10374,ASE-Associate Software Engineer,12/8/1993,3/29/1996
+10375,SE-Software Engineering Analyst,5/29/2001,1/1/9999
+10375,ASE-Associate Software Engineer,5/29/1994,5/29/2001
+10376,M-Software Engineering Manager,12/8/1990,1/1/9999
+10377,TL-Software Engineering Team Lead,8/24/1996,1/1/9999
+10378,SE-Software Engineering Analyst,8/31/1992,1/1/9999
+10379,SSE- Senior Software Engineer,7/15/1996,1/1/9999
+10380,SE-Software Engineering Analyst,3/19/1994,1/1/9999
+10380,ASE-Associate Software Engineer,3/19/1985,3/19/1994
+10381,AM-Software Engineering Associate Manager,12/4/1991,12/3/2000
+10381,SSE- Senior Software Engineer,12/3/2000,1/1/9999
+10382,SSE- Senior Software Engineer,7/1/1998,10/27/2000
+10383,SSE- Senior Software Engineer,6/19/1991,6/18/1997
+10383,TL-Software Engineering Team Lead,6/18/1997,1/1/9999
+10384,SE-Software Engineering Analyst,1/16/1991,1/1/9999
+10384,ASE-Associate Software Engineer,1/16/1986,1/16/1991
+10385,SSE- Senior Software Engineer,12/20/1992,1/23/1998
+10386,SSE- Senior Software Engineer,8/2/1985,8/2/1994
+10386,TL-Software Engineering Team Lead,8/2/1994,1/1/9999
+10387,SE-Software Engineering Analyst,1/7/1999,1/1/9999
+10387,ASE-Associate Software Engineer,1/7/1994,1/7/1999
+10388,ASE-Associate Software Engineer,5/28/1999,1/1/9999
+10389,M-Software Engineering Manager,5/13/1999,1/1/9999
+10390,M-Software Engineering Manager,5/17/1989,1/1/9999
+10391,AM-Software Engineering Associate Manager,1/28/1993,1/28/2001
+10391,SSE- Senior Software Engineer,1/28/2001,1/1/9999
+10392,SSE- Senior Software Engineer,3/1/1992,3/1/1998
+10392,TL-Software Engineering Team Lead,3/1/1998,1/1/9999
+10393,SSE- Senior Software Engineer,6/23/1989,6/23/1995
+10393,TL-Software Engineering Team Lead,6/23/1995,1/1/9999
+10394,SSE- Senior Software Engineer,3/14/1991,8/25/1991
+10395,SSE- Senior Software Engineer,8/10/1998,8/13/2001
+10396,TL-Software Engineering Team Lead,1/11/1986,1/1/9999
+10397,M-Software Engineering Manager,5/21/1993,1/1/9999
+10398,SE-Software Engineering Analyst,10/12/1990,1/1/9999
+10399,ASE-Associate Software Engineer,1/26/2000,1/1/9999
+10400,SE-Software Engineering Analyst,10/17/1993,1/1/9999
+10401,SSE- Senior Software Engineer,10/25/1999,4/25/2001
+10402,M-Software Engineering Manager,1/2/1987,1/1/9999
+10403,SE-Software Engineering Analyst,9/12/2000,6/15/2001
+10403,ASE-Associate Software Engineer,9/13/1991,9/12/2000
+10404,SSE- Senior Software Engineer,8/28/1988,8/28/1996
+10404,TL-Software Engineering Team Lead,8/28/1996,1/1/9999
+10405,AM-Software Engineering Associate Manager,9/26/1998,12/5/2000
+10406,SSE- Senior Software Engineer,1/26/1996,1/1/9999
+10407,SE-Software Engineering Analyst,10/30/1999,1/1/9999
+10408,ASE-Associate Software Engineer,10/7/1998,1/1/9999
+10409,SSE- Senior Software Engineer,9/26/1997,1/1/9999
+10410,ASE-Associate Software Engineer,10/16/1993,7/21/1996
+10411,SE-Software Engineering Analyst,9/2/1994,1/1/9999
+10411,ASE-Associate Software Engineer,9/2/1989,9/2/1994
+10412,SSE- Senior Software Engineer,11/21/1991,11/20/1996
+10412,TL-Software Engineering Team Lead,11/20/1996,1/1/9999
+10413,SE-Software Engineering Analyst,12/26/1997,1/1/9999
+10413,ASE-Associate Software Engineer,12/27/1991,12/26/1997
+10414,TL-Software Engineering Team Lead,5/30/1990,12/2/1994
+10415,TL-Software Engineering Team Lead,10/25/1993,1/1/9999
+10416,SE-Software Engineering Analyst,3/24/1996,1/1/9999
+10416,ASE-Associate Software Engineer,3/24/1989,3/24/1996
+10417,ASE-Associate Software Engineer,6/27/1999,1/1/9999
+10418,ASE-Associate Software Engineer,10/4/1996,1/1/9999
+10419,SE-Software Engineering Analyst,4/25/2000,7/6/2002
+10419,ASE-Associate Software Engineer,4/25/1992,4/25/2000
+10420,SE-Software Engineering Analyst,1/16/1997,7/9/2000
+10420,ASE-Associate Software Engineer,1/17/1988,1/16/1997
+10421,SE-Software Engineering Analyst,4/7/1998,1/1/9999
+10421,ASE-Associate Software Engineer,4/7/1990,4/7/1998
+10422,SSE- Senior Software Engineer,1/3/1995,1/1/9999
+10423,ASE-Associate Software Engineer,5/27/1999,1/1/9999
+10424,TL-Software Engineering Team Lead,8/7/1989,1/1/9999
+10425,SSE- Senior Software Engineer,5/7/1995,5/6/2001
+10425,TL-Software Engineering Team Lead,5/6/2001,5/6/2002
+10426,M-Software Engineering Manager,7/6/1985,1/1/9999
+10427,SE-Software Engineering Analyst,10/3/1999,1/1/9999
+10427,ASE-Associate Software Engineer,10/3/1994,10/3/1999
+10428,SE-Software Engineering Analyst,6/5/1999,1/1/9999
+10428,ASE-Associate Software Engineer,6/4/1992,6/5/1999
+10429,TL-Software Engineering Team Lead,9/23/1988,1/1/9999
+10430,TL-Software Engineering Team Lead,7/5/1998,1/1/9999
+10431,SE-Software Engineering Analyst,10/8/1995,1/1/9999
+10431,ASE-Associate Software Engineer,10/8/1987,10/8/1995
+10432,SE-Software Engineering Analyst,8/12/1996,1/1/9999
+10432,ASE-Associate Software Engineer,8/13/1990,8/12/1996
+10433,AM-Software Engineering Associate Manager,11/26/1992,11/27/1999
+10433,SSE- Senior Software Engineer,11/27/1999,1/1/9999
+10434,SSE- Senior Software Engineer,6/27/1995,6/26/2001
+10434,TL-Software Engineering Team Lead,6/26/2001,6/22/2002
+10435,SSE- Senior Software Engineer,6/8/1996,1/1/9999
+10436,SE-Software Engineering Analyst,1/30/1988,1/1/9999
+10437,SSE- Senior Software Engineer,4/12/1996,1/1/9999
+10438,AM-Software Engineering Associate Manager,1/19/1990,1/19/1997
+10438,SSE- Senior Software Engineer,1/19/1997,1/1/9999
+10439,SSE- Senior Software Engineer,5/1/1993,5/1/2002
+10439,TL-Software Engineering Team Lead,5/1/2002,1/1/9999
+10440,M-Software Engineering Manager,4/4/1997,1/1/9999
+10441,SSE- Senior Software Engineer,7/12/1988,7/12/1993
+10441,TL-Software Engineering Team Lead,7/12/1993,1/1/9999
+10442,SE-Software Engineering Analyst,2/12/1999,3/13/2001
+10442,ASE-Associate Software Engineer,2/12/1992,2/12/1999
+10443,TL-Software Engineering Team Lead,8/1/1989,7/6/2002
+10444,ASE-Associate Software Engineer,10/23/1994,1/1/9999
+10445,SSE- Senior Software Engineer,11/4/1987,11/3/1993
+10445,TL-Software Engineering Team Lead,11/3/1993,1/1/9999
+10446,SSE- Senior Software Engineer,12/25/1996,1/1/9999
+10447,AM-Software Engineering Associate Manager,12/29/1988,12/29/1997
+10447,SSE- Senior Software Engineer,12/29/1997,11/15/2000
+10448,SE-Software Engineering Analyst,3/12/2000,1/1/9999
+10448,ASE-Associate Software Engineer,3/12/1992,3/12/2000
+10449,SE-Software Engineering Analyst,3/28/1994,1/1/9999
+10449,ASE-Associate Software Engineer,3/28/1987,3/28/1994
+10450,SSE- Senior Software Engineer,8/24/1997,1/1/9999
+10451,AM-Software Engineering Associate Manager,3/12/1988,3/12/1993
+10451,SSE- Senior Software Engineer,3/12/1993,3/12/1998
+10451,TL-Software Engineering Team Lead,3/12/1998,1/1/9999
+10452,SSE- Senior Software Engineer,11/12/1995,11/11/2000
+10452,TL-Software Engineering Team Lead,11/11/2000,10/11/2001
+10453,SE-Software Engineering Analyst,4/2/1993,1/1/9999
+10453,ASE-Associate Software Engineer,4/2/1985,4/2/1993
+10454,SE-Software Engineering Analyst,4/16/1989,1/1/9999
+10455,SE-Software Engineering Analyst,2/19/2002,1/1/9999
+10455,ASE-Associate Software Engineer,2/19/1995,2/19/2002
+10456,ASE-Associate Software Engineer,1/6/2000,1/1/9999
+10457,TL-Software Engineering Team Lead,10/23/1999,1/1/9999
+10458,SE-Software Engineering Analyst,7/5/2002,1/1/9999
+10458,ASE-Associate Software Engineer,7/5/1994,7/5/2002
+10459,ASE-Associate Software Engineer,6/28/1997,1/1/9999
+10460,SSE- Senior Software Engineer,6/30/1999,4/15/2001
+10461,SE-Software Engineering Analyst,8/2/1992,1/1/9999
+10461,ASE-Associate Software Engineer,8/3/1987,8/2/1992
+10462,TL-Software Engineering Team Lead,3/25/1996,1/1/9999
+10463,ASE-Associate Software Engineer,2/17/1994,1/1/9999
+10464,SE-Software Engineering Analyst,5/21/1999,1/1/9999
+10464,ASE-Associate Software Engineer,5/21/1991,5/21/1999
+10465,SE-Software Engineering Analyst,12/11/2001,1/1/9999
+10465,ASE-Associate Software Engineer,12/11/1994,12/11/2001
+10466,ASE-Associate Software Engineer,8/22/1997,8/15/2000
+10467,ASE-Associate Software Engineer,5/22/1992,11/1/1999
+10468,SE-Software Engineering Analyst,5/28/1998,1/1/9999
+10468,ASE-Associate Software Engineer,5/28/1991,5/28/1998
+10469,TL-Software Engineering Team Lead,6/5/1985,1/1/9999
+10470,SSE- Senior Software Engineer,9/19/1989,9/19/1994
+10470,TL-Software Engineering Team Lead,9/19/1994,1/1/9999
+10471,TL-Software Engineering Team Lead,11/18/1990,1/1/9999
+10472,ASE-Associate Software Engineer,12/1/1999,1/2/2002
+10473,SSE- Senior Software Engineer,9/23/1997,1/1/9999
+10474,SSE- Senior Software Engineer,2/21/1987,2/21/1992
+10474,TL-Software Engineering Team Lead,2/21/1992,1/1/9999
+10475,SSE- Senior Software Engineer,5/13/1992,12/30/1994
+10476,SE-Software Engineering Analyst,9/20/1994,1/1/9999
+10476,ASE-Associate Software Engineer,9/20/1987,9/20/1994
+10477,SSE- Senior Software Engineer,5/26/1997,5/26/2002
+10477,TL-Software Engineering Team Lead,5/26/2002,1/1/9999
+10478,SE-Software Engineering Analyst,6/9/1992,1/1/9999
+10479,TL-Software Engineering Team Lead,7/24/1993,1/1/9999
+10480,ASE-Associate Software Engineer,5/18/1988,6/3/1989
+10481,SSE- Senior Software Engineer,10/3/1989,10/3/1998
+10481,TL-Software Engineering Team Lead,10/3/1998,1/1/9999
+10482,SSE- Senior Software Engineer,2/26/1996,1/1/9999
+10483,AM-Software Engineering Associate Manager,11/10/1993,11/10/1998
+10483,SSE- Senior Software Engineer,11/10/1998,1/1/9999
+10484,SE-Software Engineering Analyst,12/20/1996,1/1/9999
+10485,SSE- Senior Software Engineer,1/21/1996,1/1/9999
+10486,SSE- Senior Software Engineer,10/8/1987,10/7/1996
+10486,TL-Software Engineering Team Lead,10/7/1996,1/1/9999
+10487,SSE- Senior Software Engineer,8/14/1992,8/14/2001
+10487,TL-Software Engineering Team Lead,8/14/2001,1/1/9999
+10488,SSE- Senior Software Engineer,7/9/1994,7/9/2002
+10488,TL-Software Engineering Team Lead,7/9/2002,1/1/9999
+10489,SSE- Senior Software Engineer,9/10/1989,10/6/1989
+10490,SE-Software Engineering Analyst,11/22/1997,1/1/9999
+10490,ASE-Associate Software Engineer,11/22/1992,11/22/1997
+10491,SE-Software Engineering Analyst,1/17/1998,1/1/9999
+10491,ASE-Associate Software Engineer,1/17/1990,1/17/1998
+10492,SSE- Senior Software Engineer,4/29/1988,4/29/1997
+10492,TL-Software Engineering Team Lead,4/29/1997,1/1/9999
+10493,SE-Software Engineering Analyst,10/29/1998,1/1/9999
+10494,SSE- Senior Software Engineer,12/18/1991,12/17/2000
+10494,TL-Software Engineering Team Lead,12/17/2000,1/1/9999
+10495,M-Software Engineering Manager,9/24/1989,1/1/9999
+10496,ASE-Associate Software Engineer,8/29/1995,1/26/1999
+10497,SSE- Senior Software Engineer,1/22/1992,1/22/1999
+10497,TL-Software Engineering Team Lead,1/22/1999,1/1/9999
+10498,SSE- Senior Software Engineer,3/9/1994,1/1/9999
+10499,SE-Software Engineering Analyst,7/31/2001,1/1/9999
+10499,ASE-Associate Software Engineer,7/31/1996,7/31/2001
+10500,SSE- Senior Software Engineer,12/16/1996,1/1/9999
+10501,SSE- Senior Software Engineer,9/8/1988,9/9/1995
+10501,TL-Software Engineering Team Lead,9/9/1995,1/1/9999
+10502,M-Software Engineering Manager,3/4/1993,1/1/9999
+10503,SSE- Senior Software Engineer,3/13/1997,1/1/9999
+10504,ASE-Associate Software Engineer,10/19/1999,1/1/9999
+10505,SE-Software Engineering Analyst,7/23/1994,3/26/1998
+10505,ASE-Associate Software Engineer,7/23/1985,7/23/1994
+10506,TL-Software Engineering Team Lead,12/1/1996,1/1/9999
+10507,SE-Software Engineering Analyst,9/30/1999,1/1/9999
+10507,ASE-Associate Software Engineer,9/30/1990,9/30/1999
+10508,SSE- Senior Software Engineer,5/1/1991,4/30/2000
+10508,TL-Software Engineering Team Lead,4/30/2000,1/1/9999
+10509,SE-Software Engineering Analyst,10/6/1997,1/1/9999
+10509,ASE-Associate Software Engineer,10/6/1992,10/6/1997
+10510,SE-Software Engineering Analyst,4/20/1997,1/1/9999
+10510,ASE-Associate Software Engineer,4/20/1990,4/20/1997
+10511,AM-Software Engineering Associate Manager,1/27/1992,1/27/2000
+10511,SSE- Senior Software Engineer,1/27/2000,1/1/9999
+10512,SE-Software Engineering Analyst,11/28/1998,1/1/9999
+10512,ASE-Associate Software Engineer,11/28/1989,11/28/1998
+10513,SE-Software Engineering Analyst,4/1/1997,1/1/9999
+10513,ASE-Associate Software Engineer,4/2/1991,4/1/1997
+10514,ASE-Associate Software Engineer,4/29/1992,4/2/1995
+10515,SE-Software Engineering Analyst,1/6/1997,7/21/1998
+10515,ASE-Associate Software Engineer,1/6/1990,1/6/1997
+10516,SSE- Senior Software Engineer,10/19/1985,10/19/1994
+10516,TL-Software Engineering Team Lead,10/19/1994,1/1/9999
+10517,SE-Software Engineering Analyst,12/25/1990,1/1/9999
+10518,M-Software Engineering Manager,9/3/1993,1/1/9999
+10519,SE-Software Engineering Analyst,12/5/2000,10/13/2001
+10519,ASE-Associate Software Engineer,12/5/1992,12/5/2000
+10520,TL-Software Engineering Team Lead,9/5/1996,1/1/9999
+10521,SE-Software Engineering Analyst,5/11/1997,1/1/9999
+10521,ASE-Associate Software Engineer,5/11/1989,5/11/1997
+10522,SE-Software Engineering Analyst,12/12/1995,1/1/9999
+10522,ASE-Associate Software Engineer,12/12/1986,12/12/1995
+10523,SSE- Senior Software Engineer,12/23/1989,12/23/1994
+10523,TL-Software Engineering Team Lead,12/23/1994,1/1/9999
+10524,SSE- Senior Software Engineer,10/9/1985,10/9/1993
+10524,TL-Software Engineering Team Lead,10/9/1993,1/1/9999
+10525,SE-Software Engineering Analyst,7/8/1990,12/20/1995
+10526,SSE- Senior Software Engineer,2/27/1988,2/26/1997
+10526,TL-Software Engineering Team Lead,2/26/1997,1/1/9999
+10527,M-Software Engineering Manager,1/25/1996,1/1/9999
+10528,TL-Software Engineering Team Lead,10/28/1993,1/1/9999
+10529,AM-Software Engineering Associate Manager,7/4/1997,1/1/9999
+10530,SSE- Senior Software Engineer,9/23/1987,9/23/1994
+10530,TL-Software Engineering Team Lead,9/23/1994,1/1/9999
+10531,ASE-Associate Software Engineer,3/16/1995,1/1/9999
+10532,SE-Software Engineering Analyst,5/18/1993,1/1/9999
+10532,ASE-Associate Software Engineer,5/18/1986,5/18/1993
+10533,SE-Software Engineering Analyst,8/16/1996,1/1/9999
+10533,ASE-Associate Software Engineer,8/17/1990,8/16/1996
+10534,ASE-Associate Software Engineer,1/26/1998,3/3/2001
+10535,SE-Software Engineering Analyst,8/21/1996,1/1/9999
+10535,ASE-Associate Software Engineer,8/22/1991,8/21/1996
+10536,SE-Software Engineering Analyst,10/7/1997,1/1/9999
+10536,ASE-Associate Software Engineer,10/7/1988,10/7/1997
+10537,SE-Software Engineering Analyst,9/25/1996,1/1/9999
+10538,TL-Software Engineering Team Lead,7/23/1987,12/13/1998
+10539,SE-Software Engineering Analyst,6/5/1990,1/1/9999
+10540,SSE- Senior Software Engineer,5/3/1994,5/3/2002
+10540,TL-Software Engineering Team Lead,5/3/2002,1/1/9999
+10541,ASE-Associate Software Engineer,2/28/1986,10/1/1986
+10542,TL-Software Engineering Team Lead,2/7/1992,1/1/9999
+10543,ASE-Associate Software Engineer,11/24/1998,1/1/9999
+10544,SE-Software Engineering Analyst,4/29/1995,1/1/9999
+10545,SSE- Senior Software Engineer,6/30/1990,6/29/1996
+10545,TL-Software Engineering Team Lead,6/29/1996,1/1/9999
+10546,SE-Software Engineering Analyst,4/14/1998,1/1/9999
+10546,ASE-Associate Software Engineer,4/14/1991,4/14/1998
+10547,M-Software Engineering Manager,2/14/1988,6/19/1989
+10548,SE-Software Engineering Analyst,7/4/1993,1/1/9999
+10548,ASE-Associate Software Engineer,7/4/1986,7/4/1993
+10549,SSE- Senior Software Engineer,10/11/1996,10/11/2001
+10549,TL-Software Engineering Team Lead,10/11/2001,1/1/9999
+10550,SSE- Senior Software Engineer,2/3/1985,2/3/1994
+10550,TL-Software Engineering Team Lead,2/3/1994,1/1/9999
+10551,SSE- Senior Software Engineer,8/6/1988,8/7/1995
+10551,TL-Software Engineering Team Lead,8/7/1995,1/1/9999
+10552,TL-Software Engineering Team Lead,8/31/1998,1/1/9999
+10553,SSE- Senior Software Engineer,7/22/1990,7/21/1996
+10553,TL-Software Engineering Team Lead,7/21/1996,1/1/9999
+10554,SSE- Senior Software Engineer,11/28/1990,11/28/1995
+10554,TL-Software Engineering Team Lead,11/28/1995,1/1/9999
+10555,ASE-Associate Software Engineer,5/22/1992,1/19/1993
+10556,SE-Software Engineering Analyst,4/15/1997,1/1/9999
+10556,ASE-Associate Software Engineer,4/15/1992,4/15/1997
+10557,SSE- Senior Software Engineer,9/18/1992,9/18/2001
+10557,TL-Software Engineering Team Lead,9/18/2001,1/1/9999
+10558,TL-Software Engineering Team Lead,4/22/1992,1/1/9999
+10559,ASE-Associate Software Engineer,4/5/1999,1/1/9999
+10560,SSE- Senior Software Engineer,9/3/1996,1/1/9999
+10561,SE-Software Engineering Analyst,6/30/1997,1/1/9999
+10562,SSE- Senior Software Engineer,7/24/1997,7/24/2002
+10562,TL-Software Engineering Team Lead,7/24/2002,1/1/9999
+10563,SSE- Senior Software Engineer,9/29/1992,9/30/1999
+10563,TL-Software Engineering Team Lead,9/30/1999,1/1/2002
+10564,SSE- Senior Software Engineer,11/23/1995,11/22/2000
+10564,TL-Software Engineering Team Lead,11/22/2000,1/1/9999
+10565,TL-Software Engineering Team Lead,8/5/1996,1/1/9999
+10566,SSE- Senior Software Engineer,8/23/1990,10/26/1997
+10567,SE-Software Engineering Analyst,10/18/1997,1/1/9999
+10567,ASE-Associate Software Engineer,10/18/1992,10/18/1997
+10568,ASE-Associate Software Engineer,7/8/1995,1/1/9999
+10569,SE-Software Engineering Analyst,3/12/1996,1/1/9999
+10569,ASE-Associate Software Engineer,3/13/1987,3/12/1996
+10570,SE-Software Engineering Analyst,6/16/1995,3/25/2000
+10570,ASE-Associate Software Engineer,6/16/1986,6/16/1995
+10571,AM-Software Engineering Associate Manager,2/24/1985,2/24/1991
+10571,SSE- Senior Software Engineer,2/24/1991,2/23/1997
+10571,TL-Software Engineering Team Lead,2/23/1997,1/1/9999
+10572,SSE- Senior Software Engineer,2/16/1988,2/15/1994
+10572,TL-Software Engineering Team Lead,2/15/1994,1/1/9999
+10573,ASE-Associate Software Engineer,8/20/1999,1/1/9999
+10574,SE-Software Engineering Analyst,11/15/1999,1/1/9999
+10575,TL-Software Engineering Team Lead,10/4/1988,11/22/2000
+10576,SE-Software Engineering Analyst,1/3/1991,1/1/9999
+10577,SE-Software Engineering Analyst,7/2/2002,1/1/9999
+10577,ASE-Associate Software Engineer,7/2/1993,7/2/2002
+10578,TL-Software Engineering Team Lead,11/24/1989,1/1/9999
+10579,TL-Software Engineering Team Lead,6/2/1991,1/1/9999
+10580,SE-Software Engineering Analyst,3/1/1997,1/1/9999
+10580,ASE-Associate Software Engineer,3/2/1991,3/1/1997
+10581,SSE- Senior Software Engineer,4/13/1994,4/13/1999
+10581,TL-Software Engineering Team Lead,4/13/1999,1/1/9999
+10582,AM-Software Engineering Associate Manager,11/6/1995,1/1/9999
+10583,SSE- Senior Software Engineer,2/14/1985,2/14/1990
+10583,TL-Software Engineering Team Lead,2/14/1990,5/29/1998
+10584,SSE- Senior Software Engineer,2/17/1986,2/17/1993
+10584,TL-Software Engineering Team Lead,2/17/1993,1/1/9999
+10585,TL-Software Engineering Team Lead,1/9/1991,1/1/9999
+10586,SSE- Senior Software Engineer,2/4/1992,2/4/2000
+10586,TL-Software Engineering Team Lead,2/4/2000,1/1/9999
+10587,SSE- Senior Software Engineer,11/20/1991,11/20/1999
+10587,TL-Software Engineering Team Lead,11/20/1999,1/1/9999
+10588,SSE- Senior Software Engineer,7/25/1988,7/25/1993
+10588,TL-Software Engineering Team Lead,7/25/1993,1/1/9999
+10589,SE-Software Engineering Analyst,1/26/2002,1/1/9999
+10589,ASE-Associate Software Engineer,1/26/1994,1/26/2002
+10590,SE-Software Engineering Analyst,4/9/1995,1/1/9999
+10590,ASE-Associate Software Engineer,4/9/1986,4/9/1995
+10591,ASE-Associate Software Engineer,6/18/1987,9/20/1988
+10592,ASE-Associate Software Engineer,9/27/1993,1/1/9999
+10593,SSE- Senior Software Engineer,9/12/1990,9/12/1999
+10593,TL-Software Engineering Team Lead,9/12/1999,1/1/9999
+10594,SSE- Senior Software Engineer,4/2/1988,4/2/1996
+10594,TL-Software Engineering Team Lead,4/2/1996,1/1/9999
+10595,TL-Software Engineering Team Lead,11/24/1989,1/1/9999
+10596,SE-Software Engineering Analyst,5/23/2001,1/1/9999
+10596,ASE-Associate Software Engineer,5/23/1996,5/23/2001
+10597,SE-Software Engineering Analyst,4/1/1995,1/1/9999
+10597,ASE-Associate Software Engineer,4/1/1990,4/1/1995
+10598,TL-Software Engineering Team Lead,6/22/1998,9/27/2000
+10599,M-Software Engineering Manager,11/17/1991,1/1/9999
+10600,SE-Software Engineering Analyst,4/27/1997,1/1/9999
+10600,ASE-Associate Software Engineer,4/27/1992,4/27/1997
+10601,ASE-Associate Software Engineer,7/24/1999,5/9/2002
+10602,ASE-Associate Software Engineer,4/23/1989,11/6/1993
+10603,ASE-Associate Software Engineer,7/20/1995,1/1/9999
+10604,SSE- Senior Software Engineer,4/7/1990,4/7/1997
+10604,TL-Software Engineering Team Lead,4/7/1997,1/1/9999
+10605,SSE- Senior Software Engineer,7/1/1993,7/1/1998
+10605,TL-Software Engineering Team Lead,7/1/1998,1/1/9999
+10606,SSE- Senior Software Engineer,5/2/1987,5/1/1992
+10606,TL-Software Engineering Team Lead,5/1/1992,1/1/9999
+10607,SSE- Senior Software Engineer,1/13/1996,1/1/9999
+10608,TL-Software Engineering Team Lead,5/25/1986,6/2/1991
+10609,AM-Software Engineering Associate Manager,12/3/1994,12/3/1999
+10609,SSE- Senior Software Engineer,12/3/1999,1/1/9999
+10610,SSE- Senior Software Engineer,3/30/1997,1/1/9999
+10611,TL-Software Engineering Team Lead,9/16/1989,1/1/9999
+10612,AM-Software Engineering Associate Manager,9/2/1991,9/1/1996
+10612,SSE- Senior Software Engineer,9/1/1996,9/1/2001
+10612,TL-Software Engineering Team Lead,9/1/2001,1/1/9999
+10613,ASE-Associate Software Engineer,10/13/1997,1/1/9999
+10614,SSE- Senior Software Engineer,3/3/1990,3/3/1998
+10614,TL-Software Engineering Team Lead,3/3/1998,1/1/9999
+10615,SE-Software Engineering Analyst,3/10/2002,1/1/9999
+10615,ASE-Associate Software Engineer,3/10/1996,3/10/2002
+10616,ASE-Associate Software Engineer,11/7/1996,1/1/9999
+10617,SE-Software Engineering Analyst,10/30/1991,10/3/2001
+10618,SSE- Senior Software Engineer,10/7/1994,1/1/9999
+10619,SE-Software Engineering Analyst,4/9/1993,1/1/9999
+10620,AM-Software Engineering Associate Manager,11/10/1990,11/10/1999
+10620,SSE- Senior Software Engineer,11/10/1999,1/1/9999
+10621,SSE- Senior Software Engineer,2/10/1992,2/10/1999
+10621,TL-Software Engineering Team Lead,2/10/1999,1/1/9999
+10622,SSE- Senior Software Engineer,5/15/1989,5/15/1996
+10622,TL-Software Engineering Team Lead,5/15/1996,1/1/9999
+10623,SSE- Senior Software Engineer,1/15/1992,1/15/1999
+10623,TL-Software Engineering Team Lead,1/15/1999,1/1/9999
+10624,M-Software Engineering Manager,5/7/1990,1/1/9999
+10625,SSE- Senior Software Engineer,7/15/1986,7/15/1991
+10625,TL-Software Engineering Team Lead,7/15/1991,1/13/1995
+10626,ASE-Associate Software Engineer,12/3/1996,1/1/9999
+10627,SE-Software Engineering Analyst,3/12/2001,1/1/9999
+10627,ASE-Associate Software Engineer,3/13/1995,3/12/2001
+10628,AM-Software Engineering Associate Manager,3/14/1987,3/14/1994
+10628,SSE- Senior Software Engineer,3/14/1994,3/14/2001
+10628,TL-Software Engineering Team Lead,3/14/2001,1/1/9999
+10629,ASE-Associate Software Engineer,10/20/1999,12/7/2001
+10630,SSE- Senior Software Engineer,1/13/1997,1/1/9999
+10631,SSE- Senior Software Engineer,10/18/1994,1/1/9999
+10632,M-Software Engineering Manager,7/25/1985,11/20/1987
+10633,ASE-Associate Software Engineer,5/16/1997,1/1/9999
+10634,AM-Software Engineering Associate Manager,11/11/1990,11/11/1995
+10634,SSE- Senior Software Engineer,11/11/1995,11/10/2000
+10634,TL-Software Engineering Team Lead,11/10/2000,1/1/9999
+10635,TL-Software Engineering Team Lead,9/22/1991,12/20/1999
+10636,ASE-Associate Software Engineer,9/25/1996,1/1/9999
+10637,SE-Software Engineering Analyst,7/11/1998,1/19/2000
+10637,ASE-Associate Software Engineer,7/11/1993,7/11/1998
+10638,SE-Software Engineering Analyst,11/9/2000,1/1/9999
+10638,ASE-Associate Software Engineer,11/10/1994,11/9/2000
+10639,SSE- Senior Software Engineer,10/25/1992,10/26/1999
+10639,TL-Software Engineering Team Lead,10/26/1999,1/1/9999
+10640,SE-Software Engineering Analyst,12/4/1992,1/1/9999
+10641,AM-Software Engineering Associate Manager,3/21/1993,3/21/1999
+10641,SSE- Senior Software Engineer,3/21/1999,1/1/9999
+10642,SSE- Senior Software Engineer,10/5/1998,1/1/9999
+10643,SSE- Senior Software Engineer,11/11/1987,11/11/1994
+10643,TL-Software Engineering Team Lead,11/11/1994,1/1/9999
+10644,SE-Software Engineering Analyst,5/29/1994,8/25/1995
+10644,ASE-Associate Software Engineer,5/29/1985,5/29/1994
+10645,SSE- Senior Software Engineer,3/1/1988,3/2/1995
+10645,TL-Software Engineering Team Lead,3/2/1995,1/1/9999
+10646,SE-Software Engineering Analyst,1/30/2002,1/1/9999
+10646,ASE-Associate Software Engineer,1/31/1996,1/30/2002
+10647,AM-Software Engineering Associate Manager,9/3/1997,1/1/9999
+10648,SSE- Senior Software Engineer,2/16/1988,2/15/1993
+10648,TL-Software Engineering Team Lead,2/15/1993,1/1/9999
+10649,SE-Software Engineering Analyst,6/23/1998,1/1/9999
+10650,AM-Software Engineering Associate Manager,10/4/1992,10/4/2000
+10650,SSE- Senior Software Engineer,10/4/2000,1/1/9999
+10651,SE-Software Engineering Analyst,1/7/2002,1/1/9999
+10651,ASE-Associate Software Engineer,1/8/1996,1/7/2002
+10652,ASE-Associate Software Engineer,2/12/1990,1/13/1992
+10653,TL-Software Engineering Team Lead,4/30/1987,1/1/9999
+10654,SSE- Senior Software Engineer,3/25/1990,3/25/1999
+10654,TL-Software Engineering Team Lead,3/25/1999,1/1/9999
+10655,SE-Software Engineering Analyst,7/4/1997,1/1/9999
+10656,SSE- Senior Software Engineer,6/21/1988,6/21/1993
+10656,TL-Software Engineering Team Lead,6/21/1993,1/1/9999
+10657,SE-Software Engineering Analyst,3/27/1999,1/1/9999
+10657,ASE-Associate Software Engineer,3/26/1992,3/27/1999
+10658,SE-Software Engineering Analyst,4/29/1994,1/1/9999
+10659,SSE- Senior Software Engineer,6/1/1995,5/31/2000
+10659,TL-Software Engineering Team Lead,5/31/2000,1/1/9999
+10660,TL-Software Engineering Team Lead,8/12/1988,7/12/1991
+10661,SE-Software Engineering Analyst,1/11/1993,1/1/9999
+10661,ASE-Associate Software Engineer,1/12/1988,1/11/1993
+10662,SSE- Senior Software Engineer,12/17/1999,1/1/9999
+10663,M-Software Engineering Manager,1/23/1993,1/1/9999
+10664,SSE- Senior Software Engineer,12/24/1989,12/24/1998
+10664,TL-Software Engineering Team Lead,12/24/1998,1/1/9999
+10665,SSE- Senior Software Engineer,1/23/1988,1/23/1995
+10665,TL-Software Engineering Team Lead,1/23/1995,7/13/2000
+10666,SE-Software Engineering Analyst,5/20/1998,1/1/9999
+10666,ASE-Associate Software Engineer,5/20/1989,5/20/1998
+10667,SE-Software Engineering Analyst,7/28/1999,1/1/9999
+10668,ASE-Associate Software Engineer,11/28/1997,9/3/1999
+10669,SE-Software Engineering Analyst,11/17/2001,1/1/9999
+10669,ASE-Associate Software Engineer,11/17/1996,11/17/2001
+10670,SE-Software Engineering Analyst,3/23/1993,1/1/9999
+10670,ASE-Associate Software Engineer,3/23/1988,3/23/1993
+10671,SE-Software Engineering Analyst,9/13/2001,1/1/9999
+10671,ASE-Associate Software Engineer,9/14/1995,9/13/2001
+10672,TL-Software Engineering Team Lead,9/29/1991,4/19/1996
+10673,SSE- Senior Software Engineer,7/29/1994,1/14/1998
+10674,SSE- Senior Software Engineer,3/17/1999,1/1/9999
+10675,SE-Software Engineering Analyst,2/2/1993,1/1/9999
+10676,SSE- Senior Software Engineer,9/4/1999,1/1/9999
+10677,SSE- Senior Software Engineer,10/13/1999,1/1/9999
+10678,SSE- Senior Software Engineer,8/2/1987,8/2/1995
+10678,TL-Software Engineering Team Lead,8/2/1995,1/1/9999
+10679,SE-Software Engineering Analyst,5/13/1997,1/1/9999
+10679,ASE-Associate Software Engineer,5/13/1990,5/13/1997
+10680,TL-Software Engineering Team Lead,11/21/1992,12/8/1998
+10681,ASE-Associate Software Engineer,10/2/1995,1/1/9999
+10682,SE-Software Engineering Analyst,11/9/1990,1/1/9999
+10683,TL-Software Engineering Team Lead,6/23/1997,1/1/9999
+10684,SSE- Senior Software Engineer,10/28/1999,1/1/9999
+10685,SE-Software Engineering Analyst,12/27/1995,10/20/1996
+10686,TL-Software Engineering Team Lead,5/17/1987,1/1/9999
+10687,SE-Software Engineering Analyst,3/13/1999,1/1/9999
+10687,ASE-Associate Software Engineer,3/13/1990,3/13/1999
+10688,SE-Software Engineering Analyst,4/13/1986,1/1/9999
+10689,SE-Software Engineering Analyst,8/5/1993,1/1/9999
+10689,ASE-Associate Software Engineer,8/5/1988,8/5/1993
+10690,SSE- Senior Software Engineer,8/22/1989,8/22/1994
+10690,TL-Software Engineering Team Lead,8/22/1994,1/1/9999
+10691,M-Software Engineering Manager,9/17/1989,1/1/9999
+10692,SE-Software Engineering Analyst,3/22/2000,1/1/9999
+10692,ASE-Associate Software Engineer,3/22/1993,3/22/2000
+10693,SE-Software Engineering Analyst,1/8/1991,1/1/9999
+10693,ASE-Associate Software Engineer,1/8/1986,1/8/1991
+10694,SE-Software Engineering Analyst,1/25/1993,7/11/2001
+10694,ASE-Associate Software Engineer,1/26/1988,1/25/1993
+10695,SSE- Senior Software Engineer,5/19/1998,1/1/9999
+10696,M-Software Engineering Manager,9/9/1991,1/1/9999
+10697,ASE-Associate Software Engineer,8/29/1999,1/1/9999
+10698,TL-Software Engineering Team Lead,12/8/1994,1/1/9999
+10699,SSE- Senior Software Engineer,11/17/1985,11/17/1993
+10699,TL-Software Engineering Team Lead,11/17/1993,1/1/9999
+10700,SSE- Senior Software Engineer,4/14/1998,6/27/2002
+10701,SE-Software Engineering Analyst,10/27/1994,1/1/9999
+10701,ASE-Associate Software Engineer,10/27/1986,10/27/1994
+10702,TL-Software Engineering Team Lead,1/14/1991,1/1/9999
+10703,SSE- Senior Software Engineer,5/12/1996,5/12/2002
+10703,TL-Software Engineering Team Lead,5/12/2002,1/1/9999
+10704,SE-Software Engineering Analyst,2/16/2001,1/1/9999
+10704,ASE-Associate Software Engineer,2/17/1995,2/16/2001
+10705,SE-Software Engineering Analyst,7/17/1996,1/1/9999
+10705,ASE-Associate Software Engineer,7/18/1990,7/17/1996
+10706,M-Software Engineering Manager,5/3/1994,4/8/2001
+10707,SSE- Senior Software Engineer,12/24/1990,12/24/1997
+10707,TL-Software Engineering Team Lead,12/24/1997,1/1/9999
+10708,ASE-Associate Software Engineer,11/9/1999,1/1/9999
+10709,SSE- Senior Software Engineer,2/2/1986,2/2/1992
+10709,TL-Software Engineering Team Lead,2/2/1992,1/1/9999
+10710,SE-Software Engineering Analyst,7/8/2000,1/1/9999
+10710,ASE-Associate Software Engineer,7/9/1995,7/8/2000
+10711,SSE- Senior Software Engineer,6/21/1991,6/20/1996
+10711,TL-Software Engineering Team Lead,6/20/1996,1/1/9999
+10712,SSE- Senior Software Engineer,8/18/1994,8/18/2001
+10712,TL-Software Engineering Team Lead,8/18/2001,1/1/9999
+10713,SE-Software Engineering Analyst,4/26/1986,2/21/2001
+10714,SSE- Senior Software Engineer,11/24/1999,1/1/9999
+10715,SSE- Senior Software Engineer,10/28/1999,1/1/9999
+10716,SSE- Senior Software Engineer,8/12/1987,8/11/1993
+10716,TL-Software Engineering Team Lead,8/11/1993,1/1/9999
+10717,SE-Software Engineering Analyst,9/12/1996,1/1/9999
+10717,ASE-Associate Software Engineer,9/13/1991,9/12/1996
+10718,SSE- Senior Software Engineer,7/21/1988,7/21/1997
+10718,TL-Software Engineering Team Lead,7/21/1997,1/1/9999
+10719,AM-Software Engineering Associate Manager,9/5/1995,7/31/1999
+10720,SE-Software Engineering Analyst,6/26/1996,1/1/9999
+10721,ASE-Associate Software Engineer,7/15/1999,1/1/9999
+10722,SE-Software Engineering Analyst,1/17/1994,4/14/2000
+10722,ASE-Associate Software Engineer,1/17/1989,1/17/1994
+10723,M-Software Engineering Manager,7/14/1997,1/1/9999
+10724,SSE- Senior Software Engineer,12/7/1995,12/6/2001
+10724,TL-Software Engineering Team Lead,12/6/2001,1/1/9999
+10725,SE-Software Engineering Analyst,9/8/1990,1/1/9999
+10726,SSE- Senior Software Engineer,2/25/1992,2/24/2001
+10726,TL-Software Engineering Team Lead,2/24/2001,1/1/9999
+10727,SE-Software Engineering Analyst,1/8/1998,6/6/2000
+10727,ASE-Associate Software Engineer,1/8/1991,1/8/1998
+10728,SSE- Senior Software Engineer,12/9/1989,12/9/1998
+10728,TL-Software Engineering Team Lead,12/9/1998,1/1/9999
+10729,TL-Software Engineering Team Lead,4/20/1986,1/1/9999
+10730,TL-Software Engineering Team Lead,5/14/1996,6/7/1998
+10731,SE-Software Engineering Analyst,2/20/1994,10/9/2000
+10731,ASE-Associate Software Engineer,2/20/1987,2/20/1994
+10732,TL-Software Engineering Team Lead,12/21/1994,1/1/9999
+10733,SE-Software Engineering Analyst,2/19/2002,1/1/9999
+10733,ASE-Associate Software Engineer,2/20/1996,2/19/2002
+10734,SSE- Senior Software Engineer,12/19/1995,1/1/9999
+10735,SE-Software Engineering Analyst,10/29/1993,1/1/9999
+10735,ASE-Associate Software Engineer,10/29/1985,10/29/1993
+10736,TL-Software Engineering Team Lead,9/26/1991,1/1/9999
+10737,SSE- Senior Software Engineer,6/22/1999,1/1/9999
+10738,M-Software Engineering Manager,4/30/1991,1/1/9999
+10739,AM-Software Engineering Associate Manager,3/30/1985,3/30/1994
+10739,SSE- Senior Software Engineer,3/30/1994,1/1/9999
+10740,SSE- Senior Software Engineer,4/30/1996,3/17/2002
+10741,SE-Software Engineering Analyst,1/6/1997,1/1/9999
+10741,ASE-Associate Software Engineer,1/6/1989,1/6/1997
+10742,M-Software Engineering Manager,4/3/1997,1/1/9999
+10743,ASE-Associate Software Engineer,11/5/1999,1/1/9999
+10744,ASE-Associate Software Engineer,12/29/1985,6/3/1992
+10745,SSE- Senior Software Engineer,1/23/1988,1/22/1997
+10745,TL-Software Engineering Team Lead,1/22/1997,1/1/9999
+10746,M-Software Engineering Manager,8/31/1990,1/1/9999
+10747,TL-Software Engineering Team Lead,10/8/1990,9/20/1999
+10748,SE-Software Engineering Analyst,8/13/1996,1/1/9999
+10748,ASE-Associate Software Engineer,8/14/1990,8/13/1996
+10749,SSE- Senior Software Engineer,9/26/1985,9/26/1990
+10749,TL-Software Engineering Team Lead,9/26/1990,1/1/9999
+10750,M-Software Engineering Manager,11/6/1998,1/1/9999
+10751,SSE- Senior Software Engineer,12/14/1999,12/5/2000
+10752,TL-Software Engineering Team Lead,5/28/1993,1/1/9999
+10753,SSE- Senior Software Engineer,5/17/1985,5/17/1993
+10753,TL-Software Engineering Team Lead,5/17/1993,8/25/1999
+10754,SE-Software Engineering Analyst,1/11/1988,1/1/9999
+10755,AM-Software Engineering Associate Manager,4/1/1995,11/13/2001
+10756,TL-Software Engineering Team Lead,10/7/1997,1/1/9999
+10757,SSE- Senior Software Engineer,1/6/1986,10/18/1991
+10758,SSE- Senior Software Engineer,7/1/1999,1/1/9999
+10759,M-Software Engineering Manager,12/4/1991,1/1/9999
+10760,SE-Software Engineering Analyst,8/22/1997,1/1/9999
+10761,ASE-Associate Software Engineer,5/30/1992,1/4/1999
+10762,SE-Software Engineering Analyst,1/21/1999,1/1/9999
+10762,ASE-Associate Software Engineer,1/21/1992,1/21/1999
+10763,SSE- Senior Software Engineer,2/23/1987,2/22/1993
+10763,TL-Software Engineering Team Lead,2/22/1993,1/1/9999
+10764,SSE- Senior Software Engineer,11/27/1989,11/27/1998
+10764,TL-Software Engineering Team Lead,11/27/1998,1/1/9999
+10765,ASE-Associate Software Engineer,5/7/1994,5/11/1994
+10766,ASE-Associate Software Engineer,9/18/1999,1/1/9999
+10767,ASE-Associate Software Engineer,7/15/1997,1/1/9999
+10768,SSE- Senior Software Engineer,7/4/1985,7/4/1990
+10768,TL-Software Engineering Team Lead,7/4/1990,1/1/9999
+10769,M-Software Engineering Manager,8/30/1991,1/1/9999
+10770,SE-Software Engineering Analyst,12/25/1987,2/27/1989
+10771,SE-Software Engineering Analyst,4/1/1996,1/1/9999
+10772,TL-Software Engineering Team Lead,2/22/1990,1/1/9999
+10773,ASE-Associate Software Engineer,2/9/1997,11/29/1997
+10774,SSE- Senior Software Engineer,1/26/1990,1/26/1995
+10774,TL-Software Engineering Team Lead,1/26/1995,1/1/9999
+10775,SSE- Senior Software Engineer,12/30/1994,12/30/1999
+10775,TL-Software Engineering Team Lead,12/30/1999,1/1/9999
+10776,M-Software Engineering Manager,3/16/1986,1/1/9999
+10777,SSE- Senior Software Engineer,3/17/1990,3/16/1996
+10777,TL-Software Engineering Team Lead,3/16/1996,3/27/2001
+10778,SE-Software Engineering Analyst,7/4/1986,1/1/9999
+10779,SE-Software Engineering Analyst,1/10/1993,1/1/9999
+10779,ASE-Associate Software Engineer,1/11/1988,1/10/1993
+10780,SSE- Senior Software Engineer,8/1/1994,8/18/1996
+10781,SE-Software Engineering Analyst,2/3/1997,1/1/9999
+10781,ASE-Associate Software Engineer,2/4/1991,2/3/1997
+10782,ASE-Associate Software Engineer,7/6/1997,3/30/2002
+10783,SE-Software Engineering Analyst,5/15/1999,1/1/9999
+10783,ASE-Associate Software Engineer,5/15/1994,5/15/1999
+10784,AM-Software Engineering Associate Manager,10/14/1998,1/1/9999
+10785,SSE- Senior Software Engineer,11/11/1994,11/11/2001
+10785,TL-Software Engineering Team Lead,11/11/2001,1/1/9999
+10786,TL-Software Engineering Team Lead,6/6/1997,1/1/9999
+10787,SE-Software Engineering Analyst,7/18/2000,7/27/2002
+10787,ASE-Associate Software Engineer,7/19/1991,7/18/2000
+10788,ASE-Associate Software Engineer,5/29/1998,1/1/9999
+10789,ASE-Associate Software Engineer,1/26/1998,1/1/9999
+10790,SSE- Senior Software Engineer,3/2/1999,1/1/9999
+10791,SSE- Senior Software Engineer,7/30/1988,7/31/1995
+10791,TL-Software Engineering Team Lead,7/31/1995,1/1/9999
+10792,SSE- Senior Software Engineer,8/10/1985,8/10/1992
+10792,TL-Software Engineering Team Lead,8/10/1992,12/20/1993
+10793,TL-Software Engineering Team Lead,9/18/1990,1/1/9999
+10794,SE-Software Engineering Analyst,5/23/2000,1/1/9999
+10794,ASE-Associate Software Engineer,5/24/1994,5/23/2000
+10795,SE-Software Engineering Analyst,5/3/1999,1/1/9999
+10795,ASE-Associate Software Engineer,5/3/1993,5/3/1999
+10796,M-Software Engineering Manager,11/8/1990,1/1/9999
+10797,AM-Software Engineering Associate Manager,8/21/1988,8/21/1997
+10797,SSE- Senior Software Engineer,8/21/1997,1/1/9999
+10798,SSE- Senior Software Engineer,9/21/1996,9/21/2001
+10798,TL-Software Engineering Team Lead,9/21/2001,1/1/9999
+10799,SSE- Senior Software Engineer,3/1/1989,3/1/1995
+10799,TL-Software Engineering Team Lead,3/1/1995,1/1/9999
+10800,SSE- Senior Software Engineer,5/20/1993,5/20/1998
+10800,TL-Software Engineering Team Lead,5/20/1998,1/1/9999
+10801,SSE- Senior Software Engineer,4/7/1998,1/15/2001
+10802,SSE- Senior Software Engineer,8/24/1985,8/24/1990
+10802,TL-Software Engineering Team Lead,8/24/1990,1/1/9999
+10803,SSE- Senior Software Engineer,4/20/1988,4/20/1997
+10803,TL-Software Engineering Team Lead,4/20/1997,4/2/2002
+10804,ASE-Associate Software Engineer,6/9/1997,1/1/9999
+10805,SE-Software Engineering Analyst,5/25/1996,1/1/9999
+10805,ASE-Associate Software Engineer,5/26/1987,5/25/1996
+10806,SE-Software Engineering Analyst,4/25/2000,1/1/9999
+10806,ASE-Associate Software Engineer,4/25/1993,4/25/2000
+10807,SE-Software Engineering Analyst,10/19/1999,1/1/9999
+10808,TL-Software Engineering Team Lead,3/7/1987,1/1/9999
+10809,SSE- Senior Software Engineer,2/25/1988,2/24/1994
+10809,TL-Software Engineering Team Lead,2/24/1994,1/1/9999
+10810,SE-Software Engineering Analyst,9/6/2000,1/1/9999
+10810,ASE-Associate Software Engineer,9/7/1994,9/6/2000
+10811,SSE- Senior Software Engineer,7/8/1997,1/1/9999
+10812,SSE- Senior Software Engineer,9/20/1996,10/6/1997
+10813,SE-Software Engineering Analyst,4/27/1990,1/1/9999
+10814,SE-Software Engineering Analyst,7/17/1998,1/1/9999
+10814,ASE-Associate Software Engineer,7/17/1993,7/17/1998
+10815,SE-Software Engineering Analyst,4/19/2002,1/1/9999
+10815,ASE-Associate Software Engineer,4/19/1994,4/19/2002
+10816,SE-Software Engineering Analyst,5/22/1991,1/1/9999
+10817,SE-Software Engineering Analyst,12/26/1998,1/1/9999
+10817,ASE-Associate Software Engineer,12/26/1990,12/26/1998
+10818,ASE-Associate Software Engineer,4/9/1998,1/1/9999
+10819,SSE- Senior Software Engineer,8/2/1986,8/2/1993
+10819,TL-Software Engineering Team Lead,8/2/1993,12/28/1999
+10820,SE-Software Engineering Analyst,6/26/1992,1/1/9999
+10821,SSE- Senior Software Engineer,10/6/1988,4/17/1990
+10822,SSE- Senior Software Engineer,1/11/1986,1/11/1992
+10822,TL-Software Engineering Team Lead,1/11/1992,1/1/9999
+10823,ASE-Associate Software Engineer,8/19/1999,1/1/9999
+10824,ASE-Associate Software Engineer,8/1/1995,1/1/9999
+10825,SSE- Senior Software Engineer,12/4/1993,12/4/1998
+10825,TL-Software Engineering Team Lead,12/4/1998,1/1/9999
+10826,TL-Software Engineering Team Lead,1/22/1993,1/1/9999
+10827,ASE-Associate Software Engineer,11/7/1996,1/1/9999
+10828,ASE-Associate Software Engineer,2/14/1986,3/30/1990
+10829,ASE-Associate Software Engineer,7/21/1993,11/29/1993
+10830,SE-Software Engineering Analyst,8/23/1997,1/1/9999
+10830,ASE-Associate Software Engineer,8/24/1991,8/23/1997
+10831,M-Software Engineering Manager,2/22/1998,1/1/9999
+10832,SE-Software Engineering Analyst,10/10/1992,1/1/9999
+10832,ASE-Associate Software Engineer,10/11/1986,10/10/1992
+10833,M-Software Engineering Manager,12/23/1998,1/1/9999
+10834,AM-Software Engineering Associate Manager,11/24/1990,11/24/1999
+10834,SSE- Senior Software Engineer,11/24/1999,1/1/9999
+10835,SSE- Senior Software Engineer,8/22/1995,1/1/9999
+10836,SE-Software Engineering Analyst,8/10/1987,1/1/9999
+10837,SE-Software Engineering Analyst,1/14/1993,2/22/2002
+10837,ASE-Associate Software Engineer,1/14/1986,1/14/1993
+10838,SSE- Senior Software Engineer,4/26/1994,4/26/2001
+10838,TL-Software Engineering Team Lead,4/26/2001,1/1/9999
+10839,AM-Software Engineering Associate Manager,12/30/1996,1/1/9999
+10840,SSE- Senior Software Engineer,6/4/1993,6/4/1998
+10840,TL-Software Engineering Team Lead,6/4/1998,1/1/9999
+10841,SE-Software Engineering Analyst,1/21/1997,1/1/9999
+10841,ASE-Associate Software Engineer,1/22/1992,1/21/1997
+10842,SSE- Senior Software Engineer,7/14/1986,7/14/1991
+10842,TL-Software Engineering Team Lead,7/14/1991,6/27/1998
+10843,SSE- Senior Software Engineer,4/26/1990,4/26/1998
+10843,TL-Software Engineering Team Lead,4/26/1998,1/1/9999
+10844,SSE- Senior Software Engineer,4/25/1997,1/1/9999
+10845,SSE- Senior Software Engineer,1/25/1997,1/25/2002
+10845,TL-Software Engineering Team Lead,1/25/2002,1/1/9999
+10846,TL-Software Engineering Team Lead,1/17/1995,1/1/9999
+10847,SE-Software Engineering Analyst,7/24/1992,1/1/9999
+10847,ASE-Associate Software Engineer,7/25/1986,7/24/1992
+10848,SSE- Senior Software Engineer,4/20/1985,4/20/1992
+10848,TL-Software Engineering Team Lead,4/20/1992,1/1/9999
+10849,AM-Software Engineering Associate Manager,6/25/1995,6/24/2001
+10849,SSE- Senior Software Engineer,6/24/2001,1/1/9999
+10850,ASE-Associate Software Engineer,4/22/1990,5/11/1995
+10851,SE-Software Engineering Analyst,11/21/1999,1/1/9999
+10851,ASE-Associate Software Engineer,11/21/1994,11/21/1999
+10852,M-Software Engineering Manager,8/21/1999,1/1/9999
+10853,M-Software Engineering Manager,5/3/1993,1/1/9999
+10854,SSE- Senior Software Engineer,7/13/1998,1/1/9999
+10855,SE-Software Engineering Analyst,3/29/1993,1/1/9999
+10856,ASE-Associate Software Engineer,12/31/1986,6/18/1990
+10857,SE-Software Engineering Analyst,4/2/1996,1/1/9999
+10857,ASE-Associate Software Engineer,4/4/1990,4/2/1996
+10858,SSE- Senior Software Engineer,1/1/1997,1/1/2002
+10858,TL-Software Engineering Team Lead,1/1/2002,1/1/9999
+10859,ASE-Associate Software Engineer,5/21/1996,1/1/9999
+10860,M-Software Engineering Manager,1/22/1998,1/1/9999
+10861,TL-Software Engineering Team Lead,6/10/1989,4/12/1992
+10862,SE-Software Engineering Analyst,7/23/1992,1/1/9999
+10862,ASE-Associate Software Engineer,7/23/1985,7/23/1992
+10863,SSE- Senior Software Engineer,12/25/1985,12/25/1991
+10863,TL-Software Engineering Team Lead,12/25/1991,1/1/9999
+10864,SE-Software Engineering Analyst,9/24/1992,1/1/9999
+10864,ASE-Associate Software Engineer,9/25/1986,9/24/1992
+10865,ASE-Associate Software Engineer,5/29/1993,9/19/1993
+10866,SE-Software Engineering Analyst,12/27/1995,1/1/9999
+10866,ASE-Associate Software Engineer,12/27/1990,12/27/1995
+10867,SSE- Senior Software Engineer,3/23/1997,3/22/2002
+10868,SSE- Senior Software Engineer,3/20/1990,3/20/1999
+10868,TL-Software Engineering Team Lead,3/20/1999,1/1/9999
+10869,ASE-Associate Software Engineer,9/4/1997,10/15/1998
+10870,TL-Software Engineering Team Lead,1/13/1988,1/1/9999
+10871,ASE-Associate Software Engineer,6/16/1999,1/1/9999
+10872,SE-Software Engineering Analyst,9/5/1996,1/1/9999
+10872,ASE-Associate Software Engineer,9/6/1990,9/5/1996
+10873,ASE-Associate Software Engineer,3/23/1994,1/1/9999
+10874,SSE- Senior Software Engineer,4/22/1986,4/21/1992
+10874,TL-Software Engineering Team Lead,4/21/1992,1/1/9999
+10875,TL-Software Engineering Team Lead,5/19/1988,1/1/9999
+10876,ASE-Associate Software Engineer,1/29/1995,9/14/1999
+10877,SE-Software Engineering Analyst,6/6/1986,1/1/9999
+10878,ASE-Associate Software Engineer,4/25/1997,1/1/9999
+10879,TL-Software Engineering Team Lead,8/15/1985,1/1/9999
+10880,SSE- Senior Software Engineer,1/11/1992,1/10/1997
+10880,TL-Software Engineering Team Lead,1/10/1997,1/1/9999
+10881,SSE- Senior Software Engineer,2/18/1997,10/25/1998
+10882,SSE- Senior Software Engineer,4/29/1999,1/1/9999
+10883,SSE- Senior Software Engineer,12/28/1996,1/1/9999
+10884,SSE- Senior Software Engineer,4/15/1993,4/15/1998
+10884,TL-Software Engineering Team Lead,4/15/1998,1/1/9999
+10885,SE-Software Engineering Analyst,8/19/1991,1/1/9999
+10886,SSE- Senior Software Engineer,3/26/1995,3/25/2000
+10886,TL-Software Engineering Team Lead,3/25/2000,1/1/9999
+10887,TL-Software Engineering Team Lead,3/17/1989,1/1/9999
+10888,SSE- Senior Software Engineer,6/28/1987,9/11/1989
+10889,SE-Software Engineering Analyst,8/11/1987,1/1/9999
+10890,SE-Software Engineering Analyst,3/10/1990,1/1/9999
+10891,AM-Software Engineering Associate Manager,10/6/1995,10/5/2001
+10891,SSE- Senior Software Engineer,10/5/2001,1/1/9999
+10892,SE-Software Engineering Analyst,4/11/1998,1/1/9999
+10892,ASE-Associate Software Engineer,4/11/1990,4/11/1998
+10893,SE-Software Engineering Analyst,8/23/1995,1/1/9999
+10893,ASE-Associate Software Engineer,8/23/1989,8/23/1995
+10894,SSE- Senior Software Engineer,12/5/1995,1/1/9999
+10895,ASE-Associate Software Engineer,4/26/1986,4/13/1987
+10896,SSE- Senior Software Engineer,11/27/1997,1/1/9999
+10897,SE-Software Engineering Analyst,4/9/1995,1/1/9999
+10897,ASE-Associate Software Engineer,4/9/1986,4/9/1995
+10898,TL-Software Engineering Team Lead,1/8/1993,1/1/9999
+10899,SE-Software Engineering Analyst,4/5/1999,1/1/9999
+10899,ASE-Associate Software Engineer,4/5/1990,4/5/1999
+10900,TL-Software Engineering Team Lead,9/7/1995,1/1/9999
+10901,ASE-Associate Software Engineer,8/5/1998,1/1/9999
+10902,AM-Software Engineering Associate Manager,6/11/1990,9/25/1990
+10903,SE-Software Engineering Analyst,2/14/1997,1/1/9999
+10903,ASE-Associate Software Engineer,2/14/1989,2/14/1997
+10904,SSE- Senior Software Engineer,4/16/1993,4/16/1999
+10904,TL-Software Engineering Team Lead,4/16/1999,1/1/9999
+10905,TL-Software Engineering Team Lead,2/28/1985,3/7/1986
+10906,ASE-Associate Software Engineer,10/18/1998,1/1/9999
+10907,SE-Software Engineering Analyst,12/26/1995,1/1/9999
+10907,ASE-Associate Software Engineer,12/25/1988,12/26/1995
+10908,SE-Software Engineering Analyst,4/5/1993,1/1/9999
+10908,ASE-Associate Software Engineer,4/5/1986,4/5/1993
+10909,SSE- Senior Software Engineer,12/26/1993,12/26/2000
+10909,TL-Software Engineering Team Lead,12/26/2000,1/1/9999
+10910,SE-Software Engineering Analyst,9/2/1995,1/1/9999
+10910,ASE-Associate Software Engineer,9/2/1989,9/2/1995
+10911,TL-Software Engineering Team Lead,6/25/1988,1/1/9999
+10912,SE-Software Engineering Analyst,4/23/1991,9/26/1999
+10912,ASE-Associate Software Engineer,4/23/1986,4/23/1991
+10913,ASE-Associate Software Engineer,10/25/1998,1/1/9999
+10914,ASE-Associate Software Engineer,3/24/1998,9/1/1998
+10915,TL-Software Engineering Team Lead,10/28/1999,1/1/9999
+10916,SSE- Senior Software Engineer,3/12/1998,1/1/9999
+10917,SSE- Senior Software Engineer,1/30/1993,1/30/1998
+10917,TL-Software Engineering Team Lead,1/30/1998,1/1/9999
+10918,ASE-Associate Software Engineer,1/29/1990,10/10/1990
+10919,ASE-Associate Software Engineer,10/30/1999,1/1/9999
+10920,SE-Software Engineering Analyst,2/23/1998,1/1/9999
+10920,ASE-Associate Software Engineer,2/24/1992,2/23/1998
+10921,SSE- Senior Software Engineer,7/27/1986,7/27/1995
+10921,TL-Software Engineering Team Lead,7/27/1995,1/1/9999
+10922,ASE-Associate Software Engineer,2/2/1996,1/16/1999
+10923,SE-Software Engineering Analyst,4/9/1990,1/1/9999
+10924,SE-Software Engineering Analyst,8/14/1997,1/1/9999
+10924,ASE-Associate Software Engineer,8/14/1988,8/14/1997
+10925,M-Software Engineering Manager,6/11/1991,1/1/9999
+10926,SSE- Senior Software Engineer,4/30/1990,4/30/1995
+10926,TL-Software Engineering Team Lead,4/30/1995,1/1/9999
+10927,SE-Software Engineering Analyst,9/12/1993,1/1/9999
+10927,ASE-Associate Software Engineer,9/12/1986,9/12/1993
+10928,SE-Software Engineering Analyst,4/6/1997,1/1/9999
+10928,ASE-Associate Software Engineer,4/7/1991,4/6/1997
+10929,SE-Software Engineering Analyst,4/15/1998,1/1/9999
+10929,ASE-Associate Software Engineer,4/15/1991,4/15/1998
+10930,SSE- Senior Software Engineer,11/22/1991,11/22/1998
+10930,TL-Software Engineering Team Lead,11/22/1998,1/1/9999
+10931,M-Software Engineering Manager,6/14/1992,9/19/1999
+10932,SSE- Senior Software Engineer,9/9/1994,9/9/1999
+10932,TL-Software Engineering Team Lead,9/9/1999,1/1/9999
+10933,TL-Software Engineering Team Lead,8/2/1993,1/1/9999
+10934,ASE-Associate Software Engineer,9/17/1995,1/1/9999
+10935,ASE-Associate Software Engineer,10/17/1994,1/1/9999
+10936,SE-Software Engineering Analyst,5/8/1996,1/1/9999
+10936,ASE-Associate Software Engineer,5/9/1990,5/8/1996
+10937,SSE- Senior Software Engineer,6/16/1988,6/16/1994
+10937,TL-Software Engineering Team Lead,6/16/1994,1/1/9999
+10938,SE-Software Engineering Analyst,9/24/1993,1/1/9999
+10938,ASE-Associate Software Engineer,9/24/1985,9/24/1993
+10939,AM-Software Engineering Associate Manager,12/11/1997,1/1/9999
+10940,SSE- Senior Software Engineer,6/30/1997,12/2/1999
+10941,SE-Software Engineering Analyst,8/22/2001,1/1/9999
+10941,ASE-Associate Software Engineer,8/22/1993,8/22/2001
+10942,SSE- Senior Software Engineer,1/21/1996,1/1/9999
+10943,SSE- Senior Software Engineer,5/22/1993,5/22/1999
+10943,TL-Software Engineering Team Lead,5/22/1999,1/1/9999
+10944,TL-Software Engineering Team Lead,9/7/1995,1/1/9999
+10945,SSE- Senior Software Engineer,4/4/1993,4/4/2001
+10945,TL-Software Engineering Team Lead,4/4/2001,1/1/9999
+10946,ASE-Associate Software Engineer,10/26/1996,1/1/9999
+10947,SE-Software Engineering Analyst,11/15/2001,1/1/9999
+10947,ASE-Associate Software Engineer,11/16/1995,11/15/2001
+10948,TL-Software Engineering Team Lead,9/30/1996,6/23/1997
+10949,SE-Software Engineering Analyst,6/28/1996,1/1/9999
+10949,ASE-Associate Software Engineer,6/29/1990,6/28/1996
+10950,TL-Software Engineering Team Lead,6/8/1996,1/13/1998
+10951,SE-Software Engineering Analyst,7/6/1994,1/1/9999
+10951,ASE-Associate Software Engineer,7/6/1989,7/6/1994
+10952,TL-Software Engineering Team Lead,7/22/1986,4/26/1988
+10953,SE-Software Engineering Analyst,2/12/1987,1/1/9999
+10954,ASE-Associate Software Engineer,12/14/1995,1/1/9999
+10955,SE-Software Engineering Analyst,9/27/1991,1/1/9999
+10955,ASE-Associate Software Engineer,9/27/1986,9/27/1991
+10956,SSE- Senior Software Engineer,12/2/1995,1/1/9999
+10957,SE-Software Engineering Analyst,10/1/1990,1/1/9999
+10958,SSE- Senior Software Engineer,11/27/1988,11/27/1993
+10958,TL-Software Engineering Team Lead,11/27/1993,1/1/9999
+10959,ASE-Associate Software Engineer,3/1/1994,4/12/1996
+10960,SE-Software Engineering Analyst,7/7/1995,1/1/9999
+10961,SSE- Senior Software Engineer,11/4/1993,11/4/1999
+10961,TL-Software Engineering Team Lead,11/4/1999,1/1/9999
+10962,SE-Software Engineering Analyst,12/16/1986,1/1/9999
+10963,SSE- Senior Software Engineer,1/14/1988,4/10/1995
+10964,SE-Software Engineering Analyst,5/5/1999,1/1/9999
+10964,ASE-Associate Software Engineer,5/5/1991,5/5/1999
+10965,SE-Software Engineering Analyst,7/29/1986,1/1/9999
+10966,ASE-Associate Software Engineer,2/5/1997,1/1/9999
+10967,SSE- Senior Software Engineer,8/1/1993,8/1/1998
+10967,TL-Software Engineering Team Lead,8/1/1998,1/1/9999
+10968,SE-Software Engineering Analyst,8/11/1985,1/1/9999
+10969,TL-Software Engineering Team Lead,5/12/1994,1/1/9999
+10970,SSE- Senior Software Engineer,11/14/1995,1/1/9999
+10971,M-Software Engineering Manager,7/30/1991,10/24/1998
+10972,SSE- Senior Software Engineer,6/6/1987,6/5/1996
+10972,TL-Software Engineering Team Lead,6/5/1996,1/1/9999
+10973,SSE- Senior Software Engineer,3/5/1989,3/5/1995
+10973,TL-Software Engineering Team Lead,3/5/1995,1/1/9999
+10974,TL-Software Engineering Team Lead,5/17/1999,1/1/9999
+10975,SSE- Senior Software Engineer,3/30/1992,3/30/1998
+10975,TL-Software Engineering Team Lead,3/30/1998,1/1/9999
+10976,M-Software Engineering Manager,10/31/1998,1/1/9999
+10977,SE-Software Engineering Analyst,8/10/1987,10/1/1987
+10978,SSE- Senior Software Engineer,5/18/1985,5/18/1990
+10978,TL-Software Engineering Team Lead,5/18/1990,1/1/9999
+10979,SSE- Senior Software Engineer,1/27/1986,1/27/1993
+10979,TL-Software Engineering Team Lead,1/27/1993,1/1/9999
+10980,SSE- Senior Software Engineer,1/4/1989,1/4/1997
+10980,TL-Software Engineering Team Lead,1/4/1997,1/1/9999
+10981,SE-Software Engineering Analyst,7/7/1992,1/1/9999
+10982,SE-Software Engineering Analyst,11/11/1994,1/1/9999
+10982,ASE-Associate Software Engineer,11/11/1989,11/11/1994
+10983,SSE- Senior Software Engineer,2/22/1988,2/21/1997
+10983,TL-Software Engineering Team Lead,2/21/1997,1/1/9999
+10984,TL-Software Engineering Team Lead,7/9/1988,5/14/1993
+10985,SSE- Senior Software Engineer,2/11/1999,3/10/1999
+10986,M-Software Engineering Manager,10/11/1985,1/1/9999
+10987,SSE- Senior Software Engineer,5/21/1997,1/1/9999
+10988,TL-Software Engineering Team Lead,6/19/1985,1/1/9999
+10989,SE-Software Engineering Analyst,7/20/1991,1/1/9999
+10989,ASE-Associate Software Engineer,7/20/1985,7/20/1991
+10990,M-Software Engineering Manager,8/6/1990,1/1/9999
+10991,SSE- Senior Software Engineer,7/13/1999,1/1/9999
+10992,SSE- Senior Software Engineer,4/27/1997,1/1/9999
+10993,SSE- Senior Software Engineer,5/29/1992,5/29/2000
+10993,TL-Software Engineering Team Lead,5/29/2000,1/1/9999
+10994,AM-Software Engineering Associate Manager,6/29/1987,5/24/1989
+10995,SE-Software Engineering Analyst,7/19/1997,1/1/9999
+10996,SE-Software Engineering Analyst,2/7/1996,1/1/9999
+10996,ASE-Associate Software Engineer,2/7/1990,2/7/1996
+10997,M-Software Engineering Manager,1/4/2000,1/1/9999
+10998,ASE-Associate Software Engineer,8/7/1996,1/1/9999
+10999,M-Software Engineering Manager,3/5/1996,4/19/1997
+11000,TL-Software Engineering Team Lead,1/28/1996,1/1/9999
+11001,SSE- Senior Software Engineer,2/23/1987,2/23/1992
+11001,TL-Software Engineering Team Lead,2/23/1992,1/1/9999
+11002,SE-Software Engineering Analyst,11/21/1998,12/7/2001
+11003,AM-Software Engineering Associate Manager,5/24/1987,5/24/1994
+11003,SSE- Senior Software Engineer,5/24/1994,5/24/2001
+11003,TL-Software Engineering Team Lead,5/24/2001,1/1/9999
+11004,SSE- Senior Software Engineer,1/19/1992,1/18/1998
+11004,TL-Software Engineering Team Lead,1/18/1998,1/1/9999
+11005,M-Software Engineering Manager,7/27/1989,1/1/9999
+11006,ASE-Associate Software Engineer,8/2/1989,9/22/1990
+11007,SSE- Senior Software Engineer,10/15/1996,1/1/9999
+11008,SE-Software Engineering Analyst,8/25/1997,2/15/2002
+11008,ASE-Associate Software Engineer,8/25/1992,8/25/1997
